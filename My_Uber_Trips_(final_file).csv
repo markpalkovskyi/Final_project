@@ -1,0 +1,572 @@
+START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE,SALARY,MONTH,DAY_OF_THE_WEEK,DURATION,money_regex,DAY
+2016-01-02 20:25:00,2016-01-02 20:38:00,Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies,$10.32,Jan,Sat,0 days 00:13:00,10.32,Sat
+2016-01-05 17:31:00,2016-01-05 17:45:00,Business,Fort Pierce,Fort Pierce,4.7,Meeting,$10.11,Jan,Tues,0 days 00:14:00,10.11,Tues
+2016-01-06 14:42:00,2016-01-06 15:49:00,Business,Fort Pierce,West Palm Beach,63.7,Customer Visit,$136.96,Jan,Wed,0 days 01:07:00,136.96,Wed
+2016-01-06 17:15:00,2016-01-06 17:19:00,Business,West Palm Beach,West Palm Beach,4.3,Meal/Entertain,$9.25,Jan,Wed,0 days 00:04:00,9.25,Wed
+2016-01-06 17:30:00,2016-01-06 17:35:00,Business,West Palm Beach,Palm Beach,7.1,Meeting,$15.27,Jan,Wed,0 days 00:05:00,15.27,Wed
+2016-01-07 13:27:00,2016-01-07 13:33:00,Business,Cary,Cary,0.8,Meeting,$1.72,Jan,Thus,0 days 00:06:00,1.72,Thus
+2016-01-10 08:05:00,2016-01-10 08:25:00,Business,Cary,Morrisville,8.3,Meeting,$17.85,Jan,Sun,0 days 00:20:00,17.85,Sun
+2016-01-10 12:17:00,2016-01-10 12:44:00,Business,Jamaica,New York,16.5,Customer Visit,$35.48,Jan,Sun,0 days 00:27:00,35.48,Sun
+2016-01-10 15:08:00,2016-01-10 15:51:00,Business,New York,Queens,10.8,Meeting,$23.22,Jan,Sun,0 days 00:43:00,23.22,Sun
+2016-01-10 18:18:00,2016-01-10 18:53:00,Business,Elmhurst,New York,7.5,Meeting,$16.13,Jan,Sun,0 days 00:35:00,16.13,Sun
+2016-01-10 19:12:00,2016-01-10 19:32:00,Business,Midtown,East Harlem,6.2,Meeting,$13.33,Jan,Sun,0 days 00:20:00,13.33,Sun
+2016-01-11 08:55:00,2016-01-11 09:21:00,Business,East Harlem,NoMad,6.4,Temporary Site,$13.76,Jan,Mon,0 days 00:26:00,13.76,Mon
+2016-01-11 11:56:00,2016-01-11 12:03:00,Business,Flatiron District,Midtown,1.6,Errand/Supplies,$3.44,Jan,Mon,0 days 00:07:00,3.44,Mon
+2016-01-11 13:32:00,2016-01-11 13:46:00,Business,Midtown,Midtown East,1.7,Meal/Entertain,$3.66,Jan,Mon,0 days 00:14:00,3.66,Mon
+2016-01-11 14:30:00,2016-01-11 14:43:00,Business,Midtown East,Midtown,1.9,Meal/Entertain,$4.09,Jan,Mon,0 days 00:13:00,4.09,Mon
+2016-01-12 12:33:00,2016-01-12 12:49:00,Business,Midtown,Hudson Square,1.9,Meal/Entertain,$4.09,Jan,Tues,0 days 00:16:00,4.09,Tues
+2016-01-12 12:53:00,2016-01-12 13:09:00,Business,Hudson Square,Lower Manhattan,4.0,Meal/Entertain,$8.60,Jan,Tues,0 days 00:16:00,8.6,Tues
+2016-01-12 14:42:00,2016-01-12 14:56:00,Business,Lower Manhattan,Hudson Square,1.8,Errand/Supplies,$3.87,Jan,Tues,0 days 00:14:00,3.87,Tues
+2016-01-12 15:13:00,2016-01-12 15:28:00,Business,Hudson Square,Hell's Kitchen,2.4,Customer Visit,$5.16,Jan,Tues,0 days 00:15:00,5.16,Tues
+2016-01-12 15:42:00,2016-01-12 15:54:00,Business,Hell's Kitchen,Midtown,2.0,Errand/Supplies,$4.30,Jan,Tues,0 days 00:12:00,4.3,Tues
+2016-01-12 16:02:00,2016-01-12 17:00:00,Business,New York,Queens County,15.1,Meeting,$32.47,Jan,Tues,0 days 00:58:00,32.47,Tues
+2016-01-13 13:54:00,2016-01-13 14:07:00,Business,Downtown,Gulfton,11.2,Meeting,$24.08,Jan,Wed,0 days 00:13:00,24.08,Wed
+2016-01-13 15:00:00,2016-01-13 15:28:00,Business,Gulfton,Downtown,11.8,Meeting,$25.37,Jan,Wed,0 days 00:28:00,25.37,Wed
+2016-01-14 16:29:00,2016-01-14 17:05:00,Business,Houston,Houston,21.9,Customer Visit,$47.09,Jan,Thus,0 days 00:36:00,47.09,Thus
+2016-01-14 21:39:00,2016-01-14 21:45:00,Business,Eagan Park,Jamestown Court,3.9,Errand/Supplies,$8.39,Jan,Thus,0 days 00:06:00,8.39,Thus
+2016-01-15 00:41:00,2016-01-15 01:01:00,Business,Morrisville,Cary,8.0,Errand/Supplies,$17.20,Jan,Fri,0 days 00:20:00,17.2,Fri
+2016-01-15 11:43:00,2016-01-15 12:03:00,Business,Cary,Durham,10.4,Meal/Entertain,$22.36,Jan,Fri,0 days 00:20:00,22.36,Fri
+2016-01-15 13:26:00,2016-01-15 13:44:00,Business,Durham,Cary,10.4,Meal/Entertain,$22.36,Jan,Fri,0 days 00:18:00,22.36,Fri
+2016-01-18 14:55:00,2016-01-18 15:06:00,Business,Cary,Cary,4.8,Meal/Entertain,$10.32,Jan,Mon,0 days 00:11:00,10.32,Mon
+2016-01-18 16:13:00,2016-01-18 16:24:00,Business,Farmington Woods,Whitebridge,4.7,Meal/Entertain,$10.11,Jan,Mon,0 days 00:11:00,10.11,Mon
+2016-01-19 10:55:00,2016-01-19 11:09:00,Business,Lake Wellingborough,Whitebridge,7.6,Temporary Site,$16.34,Jan,Tues,0 days 00:14:00,16.34,Tues
+2016-01-20 10:36:00,2016-01-20 11:11:00,Business,Cary,Raleigh,17.1,Meeting,$36.77,Jan,Wed,0 days 00:35:00,36.77,Wed
+2016-01-20 11:48:00,2016-01-20 12:19:00,Business,Fayetteville Street,Umstead,15.1,Meeting,$32.47,Jan,Wed,0 days 00:31:00,32.47,Wed
+2016-01-20 13:25:00,2016-01-20 14:19:00,Business,Raleigh,Cary,40.2,Customer Visit,$86.43,Jan,Wed,0 days 00:54:00,86.43,Wed
+2016-01-21 14:25:00,2016-01-21 14:29:00,Business,Cary,Cary,1.6,Errand/Supplies,$3.44,Jan,Thus,0 days 00:04:00,3.44,Thus
+2016-01-21 14:43:00,2016-01-21 14:51:00,Business,Cary,Cary,2.4,Meal/Entertain,$5.16,Jan,Thus,0 days 00:08:00,5.16,Thus
+2016-01-21 16:01:00,2016-01-21 16:06:00,Business,Cary,Cary,1.0,Meal/Entertain,$2.15,Jan,Thus,0 days 00:05:00,2.15,Thus
+2016-01-26 10:41:00,2016-01-26 10:50:00,Business,Whitebridge,Hazelwood,2.0,Meal/Entertain,$4.30,Jan,Tues,0 days 00:09:00,4.3,Tues
+2016-01-26 12:33:00,2016-01-26 12:41:00,Business,Hazelwood,Whitebridge,2.3,Errand/Supplies,$4.95,Jan,Tues,0 days 00:08:00,4.95,Tues
+2016-01-26 16:24:00,2016-01-26 16:32:00,Business,Whitebridge,Westpark Place,1.9,Errand/Supplies,$4.09,Jan,Tues,0 days 00:08:00,4.09,Tues
+2016-01-26 17:17:00,2016-01-26 17:22:00,Business,Cary,Cary,1.4,Errand/Supplies,$3.01,Jan,Tues,0 days 00:05:00,3.01,Tues
+2016-01-26 17:27:00,2016-01-26 17:29:00,Business,Cary,Cary,0.5,Errand/Supplies,$1.08,Jan,Tues,0 days 00:02:00,1.08,Tues
+2016-01-27 09:24:00,2016-01-27 09:31:00,Business,Cary,Cary,1.8,Meeting,$3.87,Jan,Wed,0 days 00:07:00,3.87,Wed
+2016-01-27 10:19:00,2016-01-27 10:48:00,Business,Cary,Raleigh,18.7,Customer Visit,$40.21,Jan,Wed,0 days 00:29:00,40.21,Wed
+2016-01-27 12:34:00,2016-01-27 12:44:00,Business,Fairmont,Meredith Townes,3.4,Customer Visit,$7.31,Jan,Wed,0 days 00:10:00,7.31,Wed
+2016-01-27 14:05:00,2016-01-27 14:13:00,Business,Raleigh,Raleigh,2.7,Customer Visit,$5.81,Jan,Wed,0 days 00:08:00,5.81,Wed
+2016-01-27 14:46:00,2016-01-27 15:08:00,Business,Raleigh,Cary,12.9,Customer Visit,$27.74,Jan,Wed,0 days 00:22:00,27.74,Wed
+2016-01-28 12:28:00,2016-01-28 13:00:00,Business,Cary,Raleigh,19.0,Temporary Site,$40.85,Jan,Thus,0 days 00:32:00,40.85,Thus
+2016-01-28 15:11:00,2016-01-28 15:31:00,Business,Meredith Townes,Leesville Hollow,14.7,Meeting,$31.61,Jan,Thus,0 days 00:20:00,31.61,Thus
+2016-01-28 16:21:00,2016-01-28 16:51:00,Business,Raleigh,Cary,15.7,Meeting,$33.76,Jan,Thus,0 days 00:30:00,33.76,Thus
+2016-01-29 09:31:00,2016-01-29 09:45:00,Business,Cary,Cary,4.6,Customer Visit,$9.89,Jan,Fri,0 days 00:14:00,9.89,Fri
+2016-01-29 10:56:00,2016-01-29 11:07:00,Business,Cary,Cary,5.2,Meeting,$11.18,Jan,Fri,0 days 00:11:00,11.18,Fri
+2016-01-29 11:43:00,2016-01-29 12:03:00,Business,Cary,Durham,10.4,Meeting,$22.36,Jan,Fri,0 days 00:20:00,22.36,Fri
+2016-01-29 13:24:00,2016-01-29 13:47:00,Business,Durham,Cary,10.1,Meeting,$21.72,Jan,Fri,0 days 00:23:00,21.72,Fri
+2016-01-29 18:31:00,2016-01-29 18:52:00,Business,Cary,Apex,5.8,Errand/Supplies,$12.47,Jan,Fri,0 days 00:21:00,12.47,Fri
+2016-01-29 21:21:00,2016-01-29 21:40:00,Business,Apex,Cary,5.5,Meal/Entertain,$11.83,Jan,Fri,0 days 00:19:00,11.83,Fri
+2016-01-30 16:21:00,2016-01-30 16:33:00,Business,Cary,Apex,5.7,Errand/Supplies,$12.26,Jan,Sat,0 days 00:12:00,12.26,Sat
+2016-01-30 18:09:00,2016-01-30 18:24:00,Business,Apex,Cary,5.7,Customer Visit,$12.26,Jan,Sat,0 days 00:15:00,12.26,Sat
+2016-02-01 10:35:00,2016-02-01 11:15:00,Business,Cary,Chapel Hill,19.4,Customer Visit,$41.71,Feb,Mon,0 days 00:40:00,41.71,Mon
+2016-02-01 12:10:00,2016-02-01 12:43:00,Business,Chapel Hill,Cary,23.3,Customer Visit,$50.10,Feb,Mon,0 days 00:33:00,50.1,Mon
+2016-02-01 12:56:00,2016-02-01 13:07:00,Business,Northwoods,Whitebridge,3.9,Meal/Entertain,$8.39,Feb,Mon,0 days 00:11:00,8.39,Mon
+2016-02-02 13:04:00,2016-02-02 13:23:00,Business,Whitebridge,Williamsburg Manor,8.3,Meeting,$17.85,Feb,Tues,0 days 00:19:00,17.85,Tues
+2016-02-02 13:51:00,2016-02-02 14:06:00,Business,Cary,Cary,6.0,Errand/Supplies,$12.90,Feb,Tues,0 days 00:15:00,12.9,Tues
+2016-02-02 14:38:00,2016-02-02 14:42:00,Business,Cary,Cary,1.6,Errand/Supplies,$3.44,Feb,Tues,0 days 00:04:00,3.44,Tues
+2016-02-04 08:40:00,2016-02-04 09:01:00,Business,Cary,Morrisville,5.2,Errand/Supplies,$11.18,Feb,Thus,0 days 00:21:00,11.18,Thus
+2016-02-04 09:37:00,2016-02-04 10:09:00,Business,Morrisville,Cary,9.7,Meal/Entertain,$20.86,Feb,Thus,0 days 00:32:00,20.86,Thus
+2016-02-04 10:26:00,2016-02-04 10:32:00,Business,Cary,Cary,1.6,Meal/Entertain,$3.44,Feb,Thus,0 days 00:06:00,3.44,Thus
+2016-02-04 15:59:00,2016-02-04 16:03:00,Business,Cary,Cary,1.1,Meal/Entertain,$2.37,Feb,Thus,0 days 00:04:00,2.37,Thus
+2016-02-04 16:35:00,2016-02-04 16:39:00,Business,Cary,Cary,1.6,Meal/Entertain,$3.44,Feb,Thus,0 days 00:04:00,3.44,Thus
+2016-02-04 18:04:00,2016-02-04 18:31:00,Business,Whitebridge,Macgregor Downs,9.0,Meeting,$19.35,Feb,Thus,0 days 00:27:00,19.35,Thus
+2016-02-04 20:36:00,2016-02-04 20:55:00,Business,Cary,Cary,7.7,Meeting,$16.56,Feb,Thus,0 days 00:19:00,16.56,Thus
+2016-02-05 11:47:00,2016-02-05 12:07:00,Business,Cary,Durham,10.4,Meeting,$22.36,Feb,Fri,0 days 00:20:00,22.36,Fri
+2016-02-05 13:22:00,2016-02-05 13:41:00,Business,Durham,Cary,10.4,Meeting,$22.36,Feb,Fri,0 days 00:19:00,22.36,Fri
+2016-02-06 16:20:00,2016-02-06 16:53:00,Business,Cary,Raleigh,11.4,Between Offices,$24.51,Feb,Sat,0 days 00:33:00,24.51,Sat
+2016-02-06 18:57:00,2016-02-06 19:21:00,Business,Raleigh,Cary,9.0,Errand/Supplies,$19.35,Feb,Sat,0 days 00:24:00,19.35,Sat
+2016-02-06 19:28:00,2016-02-06 19:37:00,Business,Edgehill Farms,Whitebridge,3.2,Meal/Entertain,$6.88,Feb,Sat,0 days 00:09:00,6.88,Sat
+2016-02-07 16:49:00,2016-02-07 17:01:00,Business,Cary,Apex,5.6,Errand/Supplies,$12.04,Feb,Sun,0 days 00:12:00,12.04,Sun
+2016-02-07 18:03:00,2016-02-07 18:17:00,Business,Apex,Cary,5.7,Customer Visit,$12.26,Feb,Sun,0 days 00:14:00,12.26,Sun
+2016-02-07 18:39:00,2016-02-07 18:53:00,Business,Cary,Morrisville,6.1,Temporary Site,$13.12,Feb,Sun,0 days 00:14:00,13.12,Sun
+2016-02-07 20:22:00,2016-02-07 20:40:00,Business,Morrisville,Cary,6.1,Meeting,$13.12,Feb,Sun,0 days 00:18:00,13.12,Sun
+2016-02-08 12:57:00,2016-02-08 13:08:00,Business,Whitebridge,Edgehill Farms,4.3,Meal/Entertain,$9.25,Feb,Mon,0 days 00:11:00,9.25,Mon
+2016-02-08 14:00:00,2016-02-08 14:10:00,Business,Edgehill Farms,Whitebridge,2.7,Meal/Entertain,$5.81,Feb,Mon,0 days 00:10:00,5.81,Mon
+2016-02-09 20:24:00,2016-02-09 20:40:00,Business,Morrisville,Cary,6.1,Meal/Entertain,$13.12,Feb,Tues,0 days 00:16:00,13.12,Tues
+2016-02-11 16:28:00,2016-02-11 17:10:00,Business,Cary,Raleigh,17.3,Meal/Entertain,$37.20,Feb,Thus,0 days 00:42:00,37.2,Thus
+2016-02-11 17:49:00,2016-02-11 18:10:00,Business,Eastgate,Walnut Terrace,5.7,Meal/Entertain,$12.26,Feb,Thus,0 days 00:21:00,12.26,Thus
+2016-02-11 18:24:00,2016-02-11 18:46:00,Business,Raleigh,Morrisville,13.5,Temporary Site,$29.03,Feb,Thus,0 days 00:22:00,29.03,Thus
+2016-02-11 20:36:00,2016-02-11 20:51:00,Business,Morrisville,Cary,6.1,Temporary Site,$13.12,Feb,Thus,0 days 00:15:00,13.12,Thus
+2016-02-12 08:21:00,2016-02-12 08:42:00,Business,Cary,Durham,8.5,Temporary Site,$18.28,Feb,Fri,0 days 00:21:00,18.28,Fri
+2016-02-12 10:45:00,2016-02-12 10:52:00,Business,Durham,Morrisville,2.6,Temporary Site,$5.59,Feb,Fri,0 days 00:07:00,5.59,Fri
+2016-02-12 11:14:00,2016-02-12 11:35:00,Business,Morrisville,Raleigh,17.0,Customer Visit,$36.55,Feb,Fri,0 days 00:21:00,36.55,Fri
+2016-02-12 13:02:00,2016-02-12 13:36:00,Business,Raleigh,Cary,18.0,Meeting,$38.70,Feb,Fri,0 days 00:34:00,38.7,Fri
+2016-02-12 14:49:00,2016-02-12 15:06:00,Business,Cary,Morrisville,8.4,Meeting,$18.06,Feb,Fri,0 days 00:17:00,18.06,Fri
+2016-02-12 15:33:00,2016-02-12 16:06:00,Business,Morrisville,Cary,11.5,Customer Visit,$24.73,Feb,Fri,0 days 00:33:00,24.73,Fri
+2016-02-13 14:21:00,2016-02-13 14:41:00,Business,Cary,Morrisville,8.9,Meeting,$19.14,Feb,Sat,0 days 00:20:00,19.14,Sat
+2016-02-14 14:07:00,2016-02-14 14:40:00,Business,East Elmhurst,New York,8.1,Meeting,$17.42,Feb,Sun,0 days 00:33:00,17.42,Sun
+2016-02-14 14:46:00,2016-02-14 15:03:00,Business,Midtown,Midtown West,2.0,Meeting,$4.30,Feb,Sun,0 days 00:17:00,4.3,Sun
+2016-02-14 16:35:00,2016-02-14 17:02:00,Business,New York,Long Island City,13.0,Meeting,$27.95,Feb,Sun,0 days 00:27:00,27.95,Sun
+2016-02-14 17:06:00,2016-02-14 17:29:00,Business,Long Island City,Jamaica,13.9,Meeting,$29.89,Feb,Sun,0 days 00:23:00,29.89,Sun
+2016-02-16 13:43:00,2016-02-16 13:55:00,Business,Colombo,Colombo,1.8,Temporary Site,$3.87,Feb,Tues,0 days 00:12:00,3.87,Tues
+2016-02-16 17:17:00,2016-02-16 17:26:00,Business,Colombo,Nugegoda,1.1,Meal/Entertain,$2.37,Feb,Tues,0 days 00:09:00,2.37,Tues
+2016-02-17 15:17:00,2016-02-17 15:22:00,Business,Colombo,Colombo,1.7,Meal/Entertain,$3.66,Feb,Wed,0 days 00:05:00,3.66,Wed
+2016-02-17 15:33:00,2016-02-17 16:17:00,Business,Colombo,Katunayaka,21.4,Temporary Site,$46.01,Feb,Wed,0 days 00:44:00,46.01,Wed
+2016-02-17 16:38:00,2016-02-17 16:43:00,Business,Katunayaka,Katunayaka,0.5,Errand/Supplies,$1.08,Feb,Wed,0 days 00:05:00,1.08,Wed
+2016-02-20 14:50:00,2016-02-20 15:54:00,Business,R?walpindi,R?walpindi,23.1,Meeting,$49.67,Feb,Sat,0 days 01:04:00,49.67,Sat
+2016-02-21 11:47:00,2016-02-21 12:01:00,Business,Islamabad,Islamabad,4.6,Errand/Supplies,$9.89,Feb,Sun,0 days 00:14:00,9.89,Sun
+2016-02-21 15:14:00,2016-02-21 15:31:00,Business,Islamabad,Noorpur Shahan,8.1,Temporary Site,$17.42,Feb,Sun,0 days 00:17:00,17.42,Sun
+2016-02-22 21:54:00,2016-02-22 22:09:00,Business,Morrisville,Cary,8.1,Customer Visit,$17.42,Feb,Mon,0 days 00:15:00,17.42,Mon
+2016-02-24 15:19:00,2016-02-24 15:25:00,Business,Preston,Whitebridge,1.7,Errand/Supplies,$3.66,Feb,Wed,0 days 00:06:00,3.66,Wed
+2016-02-25 16:27:00,2016-02-25 16:35:00,Business,Whitebridge,Heritage Pines,3.1,Errand/Supplies,$6.67,Feb,Thus,0 days 00:08:00,6.67,Thus
+2016-02-25 16:47:00,2016-02-25 17:02:00,Business,Heritage Pines,Whitebridge,3.2,Errand/Supplies,$6.88,Feb,Thus,0 days 00:15:00,6.88,Thus
+2016-02-25 17:16:00,2016-02-25 17:36:00,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain,$12.90,Feb,Thus,0 days 00:20:00,12.9,Thus
+2016-02-25 18:22:00,2016-02-25 18:39:00,Business,Tanglewood,Whitebridge,5.8,Meal/Entertain,$12.47,Feb,Thus,0 days 00:17:00,12.47,Thus
+2016-02-26 11:35:00,2016-02-26 11:59:00,Business,Cary,Durham,10.6,Meeting,$22.79,Feb,Fri,0 days 00:24:00,22.79,Fri
+2016-02-26 13:01:00,2016-02-26 13:24:00,Business,Durham,Cary,9.9,Meeting,$21.29,Feb,Fri,0 days 00:23:00,21.29,Fri
+2016-02-28 05:22:00,2016-02-28 05:38:00,Business,Whitebridge,Waverly Place,7.7,Meeting,$16.56,Feb,Sun,0 days 00:16:00,16.56,Sun
+2016-02-28 09:26:00,2016-02-28 09:42:00,Business,Waverly Place,Whitebridge,6.8,Meeting,$14.62,Feb,Sun,0 days 00:16:00,14.62,Sun
+2016-02-29 11:30:00,2016-02-29 11:40:00,Business,Cary,Apex,3.8,Meeting,$8.17,Feb,Mon,0 days 00:10:00,8.17,Mon
+2016-02-29 12:36:00,2016-02-29 12:48:00,Business,Apex,Cary,5.6,Meeting,$12.04,Feb,Mon,0 days 00:12:00,12.04,Mon
+2016-02-29 16:40:00,2016-02-29 17:00:00,Business,Hazelwood,Whitebridge,6.6,Customer Visit,$14.19,Feb,Mon,0 days 00:20:00,14.19,Mon
+2016-03-01 18:47:00,2016-03-01 19:10:00,Business,Whitebridge,Wayne Ridge,8.0,Meal/Entertain,$17.20,Mar,Tues,0 days 00:23:00,17.2,Tues
+2016-03-01 21:27:00,2016-03-01 21:45:00,Business,Wayne Ridge,Whitebridge,8.0,Meeting,$17.20,Mar,Tues,0 days 00:18:00,17.2,Tues
+2016-03-03 11:04:00,2016-03-03 11:10:00,Business,Westpark Place,Whitebridge,2.3,Errand/Supplies,$4.95,Mar,Thus,0 days 00:06:00,4.95,Thus
+2016-03-03 14:44:00,2016-03-03 14:58:00,Business,Whitebridge,Northwoods,5.2,Meal/Entertain,$11.18,Mar,Thus,0 days 00:14:00,11.18,Thus
+2016-03-03 15:27:00,2016-03-03 15:48:00,Business,Cary,Raleigh,7.6,Customer Visit,$16.34,Mar,Thus,0 days 00:21:00,16.34,Thus
+2016-03-03 16:02:00,2016-03-03 16:42:00,Business,Raleigh,Cary,17.3,Meeting,$37.20,Mar,Thus,0 days 00:40:00,37.2,Thus
+2016-03-04 07:47:00,2016-03-04 08:06:00,Business,Cary,Durham,9.9,Meeting,$21.29,Mar,Fri,0 days 00:19:00,21.29,Fri
+2016-03-04 09:46:00,2016-03-04 10:03:00,Business,Durham,Cary,9.9,Customer Visit,$21.29,Mar,Fri,0 days 00:17:00,21.29,Fri
+2016-03-04 11:46:00,2016-03-04 12:06:00,Business,Cary,Durham,10.4,Meeting,$22.36,Mar,Fri,0 days 00:20:00,22.36,Fri
+2016-03-04 13:03:00,2016-03-04 13:25:00,Business,Durham,Cary,10.9,Meeting,$23.44,Mar,Fri,0 days 00:22:00,23.44,Fri
+2016-03-04 13:40:00,2016-03-04 14:09:00,Business,Cary,Raleigh,15.7,Customer Visit,$33.76,Mar,Fri,0 days 00:29:00,33.76,Fri
+2016-03-04 15:56:00,2016-03-04 16:08:00,Business,Raleigh,Raleigh,4.9,Meal/Entertain,$10.54,Mar,Fri,0 days 00:12:00,10.54,Fri
+2016-03-04 16:16:00,2016-03-04 16:22:00,Business,Fayetteville Street,Depot Historic District,0.8,Errand/Supplies,$1.72,Mar,Fri,0 days 00:06:00,1.72,Fri
+2016-03-04 16:43:00,2016-03-04 17:12:00,Business,Raleigh,Cary,13.5,Meeting,$29.03,Mar,Fri,0 days 00:29:00,29.03,Fri
+2016-03-04 19:02:00,2016-03-04 19:08:00,Business,Cary,Morrisville,1.9,Temporary Site,$4.09,Mar,Fri,0 days 00:06:00,4.09,Fri
+2016-03-04 19:16:00,2016-03-04 19:25:00,Business,Morrisville,Cary,2.0,Meal/Entertain,$4.30,Mar,Fri,0 days 00:09:00,4.3,Fri
+2016-03-05 11:44:00,2016-03-05 11:59:00,Business,Cary,Morrisville,6.5,Meal/Entertain,$13.98,Mar,Sat,0 days 00:15:00,13.98,Sat
+2016-03-05 14:39:00,2016-03-05 15:01:00,Business,Whitebridge,Wayne Ridge,7.8,Meal/Entertain,$16.77,Mar,Sat,0 days 00:22:00,16.77,Sat
+2016-03-05 16:52:00,2016-03-05 17:13:00,Business,Cary,Morrisville,7.8,Meal/Entertain,$16.77,Mar,Sat,0 days 00:21:00,16.77,Sat
+2016-03-05 17:23:00,2016-03-05 17:34:00,Business,Morrisville,Cary,3.9,Meal/Entertain,$8.39,Mar,Sat,0 days 00:11:00,8.39,Sat
+2016-03-07 09:10:00,2016-03-07 09:20:00,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,$6.02,Mar,Mon,0 days 00:10:00,6.02,Mon
+2016-03-07 09:23:00,2016-03-07 09:47:00,Business,Cary,Raleigh,12.4,Customer Visit,$26.66,Mar,Mon,0 days 00:24:00,26.66,Mon
+2016-03-07 12:10:00,2016-03-07 12:26:00,Business,Fayetteville Street,Meredith Townes,5.9,Customer Visit,$12.69,Mar,Mon,0 days 00:16:00,12.69,Mon
+2016-03-07 13:57:00,2016-03-07 14:18:00,Business,Meredith Townes,Leesville Hollow,9.4,Meeting,$20.21,Mar,Mon,0 days 00:21:00,20.21,Mon
+2016-03-07 15:19:00,2016-03-07 15:45:00,Business,Raleigh,Cary,11.9,Between Offices,$25.59,Mar,Mon,0 days 00:26:00,25.59,Mon
+2016-03-08 14:38:00,2016-03-08 14:55:00,Business,Whitebridge,Waverly Place,7.2,Between Offices,$15.48,Mar,Tues,0 days 00:17:00,15.48,Tues
+2016-03-08 15:35:00,2016-03-08 16:00:00,Business,Waverly Place,Whitebridge,7.6,Meal/Entertain,$16.34,Mar,Tues,0 days 00:25:00,16.34,Tues
+2016-03-10 03:36:00,2016-03-10 03:53:00,Business,Cary,Morrisville,8.4,Meeting,$18.06,Mar,Thus,0 days 00:17:00,18.06,Thus
+2016-03-10 10:08:00,2016-03-10 10:37:00,Business,East Austin,West University,12.8,Meeting,$27.52,Mar,Thus,0 days 00:29:00,27.52,Thus
+2016-03-11 09:47:00,2016-03-11 09:59:00,Business,The Drag,Congress Ave District,2.0,Meal/Entertain,$4.30,Mar,Fri,0 days 00:12:00,4.3,Fri
+2016-03-13 09:07:00,2016-03-13 09:37:00,Business,The Drag,Convention Center District,5.7,Meal/Entertain,$12.26,Mar,Sun,0 days 00:30:00,12.26,Sun
+2016-03-13 18:23:00,2016-03-13 18:43:00,Business,South Congress,North Austin,8.4,Meal/Entertain,$18.06,Mar,Sun,0 days 00:20:00,18.06,Sun
+2016-03-13 20:07:00,2016-03-13 20:28:00,Business,Georgian Acres,The Drag,6.2,Meal/Entertain,$13.33,Mar,Sun,0 days 00:21:00,13.33,Sun
+2016-03-13 20:39:00,2016-03-13 20:58:00,Business,The Drag,North Austin,10.5,Meal/Entertain,$22.58,Mar,Sun,0 days 00:19:00,22.58,Sun
+2016-03-13 21:11:00,2016-03-13 21:23:00,Business,North Austin,Coxville,7.2,Meal/Entertain,$15.48,Mar,Sun,0 days 00:12:00,15.48,Sun
+2016-03-14 08:34:00,2016-03-14 08:49:00,Business,The Drag,South Congress,2.0,Errand/Supplies,$4.30,Mar,Mon,0 days 00:15:00,4.3,Mon
+2016-03-15 08:45:00,2016-03-15 08:57:00,Business,The Drag,Convention Center District,2.0,Meal/Entertain,$4.30,Mar,Tues,0 days 00:12:00,4.3,Tues
+2016-03-15 20:48:00,2016-03-15 21:01:00,Business,Downtown,The Drag,2.8,Meal/Entertain,$6.02,Mar,Tues,0 days 00:13:00,6.02,Tues
+2016-03-16 11:34:00,2016-03-16 11:45:00,Business,The Drag,Congress Ave District,1.7,Meal/Entertain,$3.66,Mar,Wed,0 days 00:11:00,3.66,Wed
+2016-03-16 18:43:00,2016-03-16 18:56:00,Business,West University,Congress Ave District,2.1,Meal/Entertain,$4.52,Mar,Wed,0 days 00:13:00,4.52,Wed
+2016-03-17 12:52:00,2016-03-17 15:11:00,Business,Austin,Katy,136.0,Customer Visit,$292.40,Mar,Thus,0 days 02:19:00,292.4,Thus
+2016-03-17 15:16:00,2016-03-17 15:58:00,Business,Katy,Houston,30.2,Meeting,$64.93,Mar,Thus,0 days 00:42:00,64.93,Thus
+2016-03-17 17:20:00,2016-03-17 18:02:00,Business,Midtown,Alief,15.5,Meal/Entertain,$33.33,Mar,Thus,0 days 00:42:00,33.33,Thus
+2016-03-18 07:15:00,2016-03-18 07:21:00,Business,Midtown,Midtown,1.1,Meal/Entertain,$2.37,Mar,Fri,0 days 00:06:00,2.37,Fri
+2016-03-18 08:35:00,2016-03-18 08:43:00,Business,Midtown,Midtown,1.1,Meal/Entertain,$2.37,Mar,Fri,0 days 00:08:00,2.37,Fri
+2016-03-18 18:24:00,2016-03-18 19:08:00,Business,Midtown,Sharpstown,13.2,Meeting,$28.38,Mar,Fri,0 days 00:44:00,28.38,Fri
+2016-03-18 19:23:00,2016-03-18 19:29:00,Business,Sharpstown,Sharpstown,1.0,Errand/Supplies,$2.15,Mar,Fri,0 days 00:06:00,2.15,Fri
+2016-03-18 21:01:00,2016-03-18 21:15:00,Business,Sharpstown,Midtown,9.2,Customer Visit,$19.78,Mar,Fri,0 days 00:14:00,19.78,Fri
+2016-03-19 09:10:00,2016-03-19 09:25:00,Business,Midtown,Sharpstown,9.4,Meal/Entertain,$20.21,Mar,Sat,0 days 00:15:00,20.21,Sat
+2016-03-19 12:50:00,2016-03-19 13:13:00,Business,Houston,Sugar Land,12.0,Customer Visit,$25.80,Mar,Sat,0 days 00:23:00,25.8,Sat
+2016-03-19 14:01:00,2016-03-19 14:57:00,Business,Sugar Land,Houston,35.1,Customer Visit,$75.47,Mar,Sat,0 days 00:56:00,75.47,Sat
+2016-03-19 15:34:00,2016-03-19 16:38:00,Business,Houston,Galveston,36.5,Meal/Entertain,$78.48,Mar,Sat,0 days 01:04:00,78.48,Sat
+2016-03-19 17:17:00,2016-03-19 17:32:00,Business,Galveston,Port Bolivar,3.1,Meal/Entertain,$6.67,Mar,Sat,0 days 00:15:00,6.67,Sat
+2016-03-19 17:37:00,2016-03-19 17:47:00,Business,Port Bolivar,Port Bolivar,2.1,Errand/Supplies,$4.52,Mar,Sat,0 days 00:10:00,4.52,Sat
+2016-03-19 18:53:00,2016-03-19 19:29:00,Business,Port Bolivar,Galveston,7.5,Meeting,$16.13,Mar,Sat,0 days 00:36:00,16.13,Sat
+2016-03-19 19:33:00,2016-03-19 20:39:00,Business,Galveston,Houston,57.0,Customer Visit,$122.55,Mar,Sat,0 days 01:06:00,122.55,Sat
+2016-03-20 07:37:00,2016-03-20 07:48:00,Business,Midtown,Washington Avenue,5.9,Meeting,$12.69,Mar,Sun,0 days 00:11:00,12.69,Sun
+2016-03-20 11:42:00,2016-03-20 11:56:00,Business,Washington Avenue,Midtown,6.2,Meeting,$13.33,Mar,Sun,0 days 00:14:00,13.33,Sun
+2016-03-20 18:45:00,2016-03-20 19:06:00,Business,Briar Meadow,Midtown,9.6,Customer Visit,$20.64,Mar,Sun,0 days 00:21:00,20.64,Sun
+2016-03-21 16:05:00,2016-03-21 16:13:00,Business,Downtown,Midtown,0.9,Meal/Entertain,$1.94,Mar,Mon,0 days 00:08:00,1.94,Mon
+2016-03-21 20:18:00,2016-03-21 20:55:00,Business,Sharpstown,Midtown,25.6,Meal/Entertain,$55.04,Mar,Mon,0 days 00:37:00,55.04,Mon
+2016-03-22 06:17:00,2016-03-22 06:43:00,Business,Midtown,Greater Greenspoint,23.0,Meal/Entertain,$49.45,Mar,Tues,0 days 00:26:00,49.45,Tues
+2016-03-25 13:24:00,2016-03-25 16:22:00,Business,Cary,Latta,144.0,Customer Visit,$309.60,Mar,Fri,0 days 02:58:00,309.6,Fri
+2016-03-25 16:52:00,2016-03-25 22:22:00,Business,Latta,Jacksonville,310.3,Customer Visit,$667.15,Mar,Fri,0 days 05:30:00,667.15,Fri
+2016-03-25 22:54:00,2016-03-26 01:39:00,Business,Jacksonville,Kissimmee,201.0,Meeting,$432.15,Mar,Fri,0 days 02:45:00,432.15,Fri
+2016-03-27 00:31:00,2016-03-27 00:40:00,Business,Lake Reams,Lake Reams,2.1,Errand/Supplies,$4.52,Mar,Sun,0 days 00:09:00,4.52,Sun
+2016-03-27 01:11:00,2016-03-27 01:23:00,Business,Orlando,Kissimmee,6.6,Meal/Entertain,$14.19,Mar,Sun,0 days 00:12:00,14.19,Sun
+2016-03-27 15:31:00,2016-03-27 15:56:00,Business,Kissimmee,Orlando,6.1,Customer Visit,$13.12,Mar,Sun,0 days 00:25:00,13.12,Sun
+2016-03-30 22:05:00,2016-03-30 22:55:00,Business,Orlando,Kissimmee,28.8,Meal/Entertain,$61.92,Mar,Wed,0 days 00:50:00,61.92,Wed
+2016-03-31 12:47:00,2016-03-31 13:22:00,Business,Kissimmee,Orlando,16.1,Temporary Site,$34.62,Mar,Thus,0 days 00:35:00,34.62,Thus
+2016-03-31 14:37:00,2016-03-31 15:09:00,Business,Orlando,Kissimmee,16.4,Meal/Entertain,$35.26,Mar,Thus,0 days 00:32:00,35.26,Thus
+2016-04-01 13:43:00,2016-04-01 14:01:00,Business,Kissimmee,Kissimmee,11.0,Meeting,$23.65,Apr,Fri,0 days 00:18:00,23.65,Fri
+2016-04-01 14:36:00,2016-04-01 15:24:00,Business,Kissimmee,Orlando,15.5,Customer Visit,$33.33,Apr,Fri,0 days 00:48:00,33.33,Fri
+2016-04-01 16:01:00,2016-04-01 16:49:00,Business,Orlando,Kissimmee,20.3,Meeting,$43.65,Apr,Fri,0 days 00:48:00,43.65,Fri
+2016-04-02 12:21:00,2016-04-02 14:47:00,Business,Kissimmee,Daytona Beach,77.3,Customer Visit,$166.20,Apr,Sat,0 days 02:26:00,166.2,Sat
+2016-04-02 16:57:00,2016-04-02 18:09:00,Business,Daytona Beach,Jacksonville,80.5,Customer Visit,$173.08,Apr,Sat,0 days 01:12:00,173.08,Sat
+2016-04-02 19:38:00,2016-04-02 22:36:00,Business,Jacksonville,Ridgeland,174.2,Customer Visit,$374.53,Apr,Sat,0 days 02:58:00,374.53,Sat
+2016-04-02 23:11:00,2016-04-03 01:34:00,Business,Ridgeland,Florence,144.0,Meeting,$309.60,Apr,Sat,0 days 02:23:00,309.6,Sat
+2016-04-03 02:00:00,2016-04-03 04:16:00,Business,Florence,Cary,159.3,Meeting,$342.50,Apr,Sun,0 days 02:16:00,342.5,Sun
+2016-04-05 21:39:00,2016-04-05 21:55:00,Business,Whitebridge,Wayne Ridge,7.9,Meal/Entertain,$16.99,Apr,Tues,0 days 00:16:00,16.99,Tues
+2016-04-06 00:19:00,2016-04-06 00:39:00,Business,Wayne Ridge,Whitebridge,8.0,Meal/Entertain,$17.20,Apr,Wed,0 days 00:20:00,17.2,Wed
+2016-04-07 18:20:00,2016-04-07 18:39:00,Business,Cary,Morrisville,6.1,Meal/Entertain,$13.12,Apr,Thus,0 days 00:19:00,13.12,Thus
+2016-04-07 19:45:00,2016-04-07 20:00:00,Business,Morrisville,Cary,6.1,Errand/Supplies,$13.12,Apr,Thus,0 days 00:15:00,13.12,Thus
+2016-04-08 12:30:00,2016-04-08 12:48:00,Business,Cary,Durham,10.5,Meeting,$22.58,Apr,Fri,0 days 00:18:00,22.58,Fri
+2016-04-08 13:34:00,2016-04-08 13:51:00,Business,Durham,Cary,8.7,Meal/Entertain,$18.71,Apr,Fri,0 days 00:17:00,18.71,Fri
+2016-04-08 13:55:00,2016-04-08 14:03:00,Business,Westpark Place,Whitebridge,1.8,Errand/Supplies,$3.87,Apr,Fri,0 days 00:08:00,3.87,Fri
+2016-04-08 14:43:00,2016-04-08 15:20:00,Business,Cary,Raleigh,19.1,Meeting,$41.07,Apr,Fri,0 days 00:37:00,41.07,Fri
+2016-04-08 16:05:00,2016-04-08 16:47:00,Business,Raleigh,Cary,18.6,Meeting,$39.99,Apr,Fri,0 days 00:42:00,39.99,Fri
+2016-04-12 09:15:00,2016-04-12 09:26:00,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,$6.02,Apr,Tues,0 days 00:11:00,6.02,Tues
+2016-04-12 09:34:00,2016-04-12 09:53:00,Business,Cary,Raleigh,8.9,Meeting,$19.14,Apr,Tues,0 days 00:19:00,19.14,Tues
+2016-04-12 10:58:00,2016-04-12 11:18:00,Business,Meredith,Cedar Hill,7.5,Customer Visit,$16.13,Apr,Tues,0 days 00:20:00,16.13,Tues
+2016-04-12 12:22:00,2016-04-12 12:44:00,Business,Raleigh,Morrisville,15.9,Meeting,$34.19,Apr,Tues,0 days 00:22:00,34.19,Tues
+2016-04-12 13:42:00,2016-04-12 14:01:00,Business,Morrisville,Cary,6.5,Meal/Entertain,$13.98,Apr,Tues,0 days 00:19:00,13.98,Tues
+2016-04-14 07:29:00,2016-04-14 08:09:00,Business,Cary,Holly Springs,15.3,Temporary Site,$32.90,Apr,Thus,0 days 00:40:00,32.9,Thus
+2016-04-14 16:00:00,2016-04-14 16:43:00,Business,Holly Springs,Cary,13.7,Temporary Site,$29.46,Apr,Thus,0 days 00:43:00,29.46,Thus
+2016-04-15 11:36:00,2016-04-15 12:07:00,Business,Cary,Raleigh,11.9,Temporary Site,$25.59,Apr,Fri,0 days 00:31:00,25.59,Fri
+2016-04-15 12:29:00,2016-04-15 12:32:00,Business,Meredith Townes,Harden Place,1.4,Errand/Supplies,$3.01,Apr,Fri,0 days 00:03:00,3.01,Fri
+2016-04-15 14:31:00,2016-04-15 15:01:00,Business,Raleigh,Cary,15.2,Meeting,$32.68,Apr,Fri,0 days 00:30:00,32.68,Fri
+2016-04-16 12:59:00,2016-04-16 13:17:00,Business,Cary,Morrisville,6.0,Errand/Supplies,$12.90,Apr,Sat,0 days 00:18:00,12.9,Sat
+2016-04-16 15:10:00,2016-04-16 15:26:00,Business,Morrisville,Cary,6.1,Meal/Entertain,$13.12,Apr,Sat,0 days 00:16:00,13.12,Sat
+2016-04-19 17:44:00,2016-04-19 18:08:00,Business,Whitebridge,Wayne Ridge,8.2,Meal/Entertain,$17.63,Apr,Tues,0 days 00:24:00,17.63,Tues
+2016-04-19 19:57:00,2016-04-19 20:19:00,Business,Wayne Ridge,Whitebridge,8.0,Meal/Entertain,$17.20,Apr,Tues,0 days 00:22:00,17.2,Tues
+2016-04-22 08:25:00,2016-04-22 09:04:00,Business,Cary,Raleigh,13.6,Meeting,$29.24,Apr,Fri,0 days 00:39:00,29.24,Fri
+2016-04-22 10:10:00,2016-04-22 10:40:00,Business,Raleigh,Cary,22.5,Meeting,$48.38,Apr,Fri,0 days 00:30:00,48.38,Fri
+2016-04-22 12:08:00,2016-04-22 12:28:00,Business,Cary,Durham,10.4,Meeting,$22.36,Apr,Fri,0 days 00:20:00,22.36,Fri
+2016-04-22 13:02:00,2016-04-22 13:26:00,Business,Durham,Cary,10.0,Meeting,$21.50,Apr,Fri,0 days 00:24:00,21.5,Fri
+2016-04-23 17:03:00,2016-04-23 17:16:00,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain,$12.90,Apr,Sat,0 days 00:13:00,12.9,Sat
+2016-04-23 18:49:00,2016-04-23 19:05:00,Business,Tanglewood,Whitebridge,6.5,Meal/Entertain,$13.98,Apr,Sat,0 days 00:16:00,13.98,Sat
+2016-04-24 19:07:00,2016-04-24 19:16:00,Business,Cary,Morrisville,3.1,Errand/Supplies,$6.67,Apr,Sun,0 days 00:09:00,6.67,Sun
+2016-04-24 19:46:00,2016-04-24 19:52:00,Business,Chessington,Chessington,1.9,Errand/Supplies,$4.09,Apr,Sun,0 days 00:06:00,4.09,Sun
+2016-04-24 21:41:00,2016-04-24 21:50:00,Business,Morrisville,Cary,4.2,Between Offices,$9.03,Apr,Sun,0 days 00:09:00,9.03,Sun
+2016-04-27 13:30:00,2016-04-27 13:40:00,Business,Whitebridge,Burtrose,4.9,Between Offices,$10.54,Apr,Wed,0 days 00:10:00,10.54,Wed
+2016-04-27 14:13:00,2016-04-27 14:25:00,Business,Burtrose,Whitebridge,4.8,Between Offices,$10.32,Apr,Wed,0 days 00:12:00,10.32,Wed
+2016-04-28 12:09:00,2016-04-28 12:34:00,Business,Cary,Raleigh,12.4,Customer Visit,$26.66,Apr,Thus,0 days 00:25:00,26.66,Thus
+2016-04-28 13:30:00,2016-04-28 13:49:00,Business,Raleigh,Cary,32.8,Customer Visit,$70.52,Apr,Thus,0 days 00:19:00,70.52,Thus
+2016-04-28 22:10:00,2016-04-28 22:28:00,Business,Morrisville,Cary,5.5,Customer Visit,$11.83,Apr,Thus,0 days 00:18:00,11.83,Thus
+2016-04-29 11:44:00,2016-04-29 12:01:00,Business,Cary,Durham,9.9,Meeting,$21.29,Apr,Fri,0 days 00:17:00,21.29,Fri
+2016-04-29 13:13:00,2016-04-29 13:34:00,Business,Durham,Cary,10.0,Meeting,$21.50,Apr,Fri,0 days 00:21:00,21.5,Fri
+2016-04-29 18:46:00,2016-04-29 19:18:00,Business,Cary,Durham,14.2,Customer Visit,$30.53,Apr,Fri,0 days 00:32:00,30.53,Fri
+2016-04-29 22:44:00,2016-04-29 23:19:00,Business,Durham,Cary,18.2,Meeting,$39.13,Apr,Fri,0 days 00:35:00,39.13,Fri
+2016-04-30 18:42:00,2016-04-30 18:57:00,Business,Whitebridge,Waverly Place,7.7,Meal/Entertain,$16.56,Apr,Sat,0 days 00:15:00,16.56,Sat
+2016-05-01 13:45:00,2016-05-01 13:53:00,Business,Whitebridge,Westpark Place,2.1,Meal/Entertain,$4.52,May,Sun,0 days 00:08:00,4.52,Sun
+2016-05-01 17:33:00,2016-05-01 17:45:00,Business,Whitebridge,Tanglewood,6.2,Between Offices,$13.33,May,Sun,0 days 00:12:00,13.33,Sun
+2016-05-01 17:54:00,2016-05-01 18:10:00,Business,Tanglewood,Parkway,7.5,Meeting,$16.13,May,Sun,0 days 00:16:00,16.13,Sun
+2016-05-01 22:38:00,2016-05-01 22:49:00,Business,Parkway,Whitebridge,3.1,Errand/Supplies,$6.67,May,Sun,0 days 00:11:00,6.67,Sun
+2016-05-02 14:14:00,2016-05-02 14:21:00,Business,Whitebridge,Westpark Place,2.2,Errand/Supplies,$4.73,May,Mon,0 days 00:07:00,4.73,Mon
+2016-05-02 15:37:00,2016-05-02 15:48:00,Business,Westpark Place,Whitebridge,3.9,Meal/Entertain,$8.39,May,Mon,0 days 00:11:00,8.39,Mon
+2016-05-03 22:20:00,2016-05-03 22:28:00,Business,Morrisville,Cary,2.5,Meal/Entertain,$5.38,May,Tues,0 days 00:08:00,5.38,Tues
+2016-05-04 15:16:00,2016-05-04 15:37:00,Business,Cary,Morrisville,8.7,Meal/Entertain,$18.71,May,Wed,0 days 00:21:00,18.71,Wed
+2016-05-04 20:55:00,2016-05-04 21:14:00,Business,Mcvan,Capitol One,14.5,Errand/Supplies,$31.18,May,Wed,0 days 00:19:00,31.18,Wed
+2016-05-04 21:30:00,2016-05-04 21:36:00,Business,Capitol One,University District,4.5,Meal/Entertain,$9.68,May,Wed,0 days 00:06:00,9.68,Wed
+2016-05-04 22:19:00,2016-05-04 22:27:00,Business,University District,Capitol One,5.0,Meal/Entertain,$10.75,May,Wed,0 days 00:08:00,10.75,Wed
+2016-05-05 21:24:00,2016-05-05 21:36:00,Business,Seattle,Redmond,14.2,Meal/Entertain,$30.53,May,Thus,0 days 00:12:00,30.53,Thus
+2016-05-05 22:34:00,2016-05-05 22:40:00,Business,Redmond,Bellevue,2.9,Errand/Supplies,$6.24,May,Thus,0 days 00:06:00,6.24,Thus
+2016-05-05 23:55:00,2016-05-06 00:08:00,Business,Bellevue,Seattle,12.9,Meeting,$27.74,May,Thus,0 days 00:13:00,27.74,Thus
+2016-05-06 05:47:00,2016-05-06 06:02:00,Business,Capitol One,Mcvan,14.4,Meeting,$30.96,May,Fri,0 days 00:15:00,30.96,Fri
+2016-05-06 16:45:00,2016-05-06 16:59:00,Business,Chapel Hill,Morrisville,17.0,Meeting,$36.55,May,Fri,0 days 00:14:00,36.55,Fri
+2016-05-06 17:18:00,2016-05-06 17:44:00,Business,Morrisville,Cary,7.9,Customer Visit,$16.99,May,Fri,0 days 00:26:00,16.99,Fri
+2016-05-09 06:08:00,2016-05-09 06:25:00,Business,Cary,Morrisville,8.4,Customer Visit,$18.06,May,Mon,0 days 00:17:00,18.06,Mon
+2016-05-09 14:39:00,2016-05-09 15:06:00,Business,San Francisco,Palo Alto,20.5,Between Offices,$44.08,May,Mon,0 days 00:27:00,44.08,Mon
+2016-05-09 17:58:00,2016-05-09 18:26:00,Business,Palo Alto,Sunnyvale,9.8,Customer Visit,$21.07,May,Mon,0 days 00:28:00,21.07,Mon
+2016-05-09 19:35:00,2016-05-09 19:59:00,Business,Sunnyvale,Newark,17.6,Customer Visit,$37.84,May,Mon,0 days 00:24:00,37.84,Mon
+2016-05-10 09:03:00,2016-05-10 09:20:00,Business,Newark,Menlo Park,9.3,Customer Visit,$20.00,May,Tues,0 days 00:17:00,20.0,Tues
+2016-05-10 17:19:00,2016-05-10 17:31:00,Business,Menlo Park,Newark,7.9,Customer Visit,$16.99,May,Tues,0 days 00:12:00,16.99,Tues
+2016-05-11 08:35:00,2016-05-11 09:12:00,Business,Newark,San Francisco,25.6,Meeting,$55.04,May,Wed,0 days 00:37:00,55.04,Wed
+2016-05-11 21:47:00,2016-05-11 22:04:00,Business,Morrisville,Cary,8.1,Meeting,$17.42,May,Wed,0 days 00:17:00,17.42,Wed
+2016-05-14 18:35:00,2016-05-14 18:39:00,Business,Cary,Morrisville,3.1,Meal/Entertain,$6.67,May,Sat,0 days 00:04:00,6.67,Sat
+2016-05-14 23:01:00,2016-05-14 23:05:00,Business,Morrisville,Cary,3.1,Meal/Entertain,$6.67,May,Sat,0 days 00:04:00,6.67,Sat
+2016-05-17 13:15:00,2016-05-17 13:23:00,Business,Whitebridge,Preston,2.8,Errand/Supplies,$6.02,May,Tues,0 days 00:08:00,6.02,Tues
+2016-05-17 13:56:00,2016-05-17 14:08:00,Business,Preston,Westpark Place,2.7,Errand/Supplies,$5.81,May,Tues,0 days 00:12:00,5.81,Tues
+2016-05-17 14:34:00,2016-05-17 14:40:00,Business,Westpark Place,Whitebridge,1.9,Errand/Supplies,$4.09,May,Tues,0 days 00:06:00,4.09,Tues
+2016-05-18 09:11:00,2016-05-18 09:41:00,Business,Cary,Morrisville,8.4,Customer Visit,$18.06,May,Wed,0 days 00:30:00,18.06,Wed
+2016-05-18 13:00:00,2016-05-18 13:02:00,Business,Morrisville,Raleigh,7.6,Customer Visit,$16.34,May,Wed,0 days 00:02:00,16.34,Wed
+2016-05-19 14:37:00,2016-05-19 15:01:00,Business,Old City,Parkway Museums,2.9,Meal/Entertain,$6.24,May,Thus,0 days 00:24:00,6.24,Thus
+2016-05-20 10:56:00,2016-05-20 11:07:00,Business,Old City,Hog Island,11.2,Meeting,$24.08,May,Fri,0 days 00:11:00,24.08,Fri
+2016-05-20 15:43:00,2016-05-20 16:12:00,Business,Morrisville,Cary,8.2,Meal/Entertain,$17.63,May,Fri,0 days 00:29:00,17.63,Fri
+2016-05-22 15:39:00,2016-05-22 15:46:00,Business,Cary,Morrisville,3.0,Meal/Entertain,$6.45,May,Sun,0 days 00:07:00,6.45,Sun
+2016-05-22 18:46:00,2016-05-22 18:53:00,Business,Morrisville,Cary,2.5,Meal/Entertain,$5.38,May,Sun,0 days 00:07:00,5.38,Sun
+2016-05-23 20:19:00,2016-05-23 20:27:00,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,$7.74,May,Mon,0 days 00:08:00,7.74,Mon
+2016-05-23 21:09:00,2016-05-23 21:21:00,Business,Savon Height,Whitebridge,3.6,Errand/Supplies,$7.74,May,Mon,0 days 00:12:00,7.74,Mon
+2016-05-27 20:26:00,2016-05-27 20:30:00,Business,Whitebridge,Kildaire Farms,4.5,Errand/Supplies,$9.68,May,Fri,0 days 00:04:00,9.68,Fri
+2016-05-27 22:11:00,2016-05-27 22:14:00,Business,Kilarney Woods,Kildaire Farms,1.7,Errand/Supplies,$3.66,May,Fri,0 days 00:03:00,3.66,Fri
+2016-05-28 00:15:00,2016-05-28 00:21:00,Business,Kilarney Woods,Whitebridge,4.7,Errand/Supplies,$10.11,May,Sat,0 days 00:06:00,10.11,Sat
+2016-05-28 12:52:00,2016-05-28 13:06:00,Business,Cary,Morrisville,6.1,Meal/Entertain,$13.12,May,Sat,0 days 00:14:00,13.12,Sat
+2016-05-28 14:35:00,2016-05-28 15:04:00,Business,Morrisville,Cary,11.3,Customer Visit,$24.30,May,Sat,0 days 00:29:00,24.3,Sat
+2016-05-31 13:54:00,2016-05-31 14:41:00,Business,Cary,Raleigh,14.9,Meeting,$32.04,May,Tues,0 days 00:47:00,32.04,Tues
+2016-05-31 16:02:00,2016-05-31 16:39:00,Business,Raleigh,Cary,14.0,Meeting,$30.10,May,Tues,0 days 00:37:00,30.1,Tues
+2016-06-01 10:19:00,2016-06-01 10:47:00,Business,Cary,Morrisville,6.7,Customer Visit,$14.41,June,Wed,0 days 00:28:00,14.41,Wed
+2016-06-01 13:10:00,2016-06-01 13:39:00,Business,Morrisville,Cary,9.6,Meeting,$20.64,June,Wed,0 days 00:29:00,20.64,Wed
+2016-06-03 11:29:00,2016-06-03 11:49:00,Business,Cary,Durham,10.4,Meeting,$22.36,June,Fri,0 days 00:20:00,22.36,Fri
+2016-06-03 13:08:00,2016-06-03 13:38:00,Business,Durham,Cary,9.9,Meeting,$21.29,June,Fri,0 days 00:30:00,21.29,Fri
+2016-06-03 15:31:00,2016-06-03 15:54:00,Business,Cary,Morrisville,6.0,Meal/Entertain,$12.90,June,Fri,0 days 00:23:00,12.9,Fri
+2016-06-03 18:14:00,2016-06-03 18:29:00,Business,Townes at Everett Crossing,Chessington,3.3,Errand/Supplies,$7.10,June,Fri,0 days 00:15:00,7.1,Fri
+2016-06-03 18:41:00,2016-06-03 18:53:00,Business,Morrisville,Cary,3.1,Errand/Supplies,$6.67,June,Fri,0 days 00:12:00,6.67,Fri
+2016-06-03 19:36:00,2016-06-03 19:42:00,Business,Huntington Woods,Weston,1.7,Errand/Supplies,$3.66,June,Fri,0 days 00:06:00,3.66,Fri
+2016-06-03 22:47:00,2016-06-03 23:06:00,Business,Morrisville,Cary,4.0,Between Offices,$8.60,June,Fri,0 days 00:19:00,8.6,Fri
+2016-06-05 14:03:00,2016-06-05 14:33:00,Business,Whitebridge,Savon Height,7.8,Customer Visit,$16.77,June,Sun,0 days 00:30:00,16.77,Sun
+2016-06-05 15:06:00,2016-06-05 15:22:00,Business,Cary,Morrisville,7.8,Customer Visit,$16.77,June,Sun,0 days 00:16:00,16.77,Sun
+2016-06-05 15:57:00,2016-06-05 16:08:00,Business,Weston,Weston,3.8,Meal/Entertain,$8.17,June,Sun,0 days 00:11:00,8.17,Sun
+2016-06-05 18:05:00,2016-06-05 18:14:00,Business,Morrisville,Cary,2.5,Meal/Entertain,$5.38,June,Sun,0 days 00:09:00,5.38,Sun
+2016-06-05 21:53:00,2016-06-05 22:05:00,Business,Cary,Durham,9.9,Meeting,$21.29,June,Sun,0 days 00:12:00,21.29,Sun
+2016-06-05 23:52:00,2016-06-06 00:08:00,Business,Durham,Cary,9.9,Meeting,$21.29,June,Sun,0 days 00:16:00,21.29,Sun
+2016-06-06 15:36:00,2016-06-06 15:45:00,Business,Whitebridge,Hazelwood,3.0,Errand/Supplies,$6.45,June,Mon,0 days 00:09:00,6.45,Mon
+2016-06-06 16:16:00,2016-06-06 16:24:00,Business,Hazelwood,Whitebridge,2.4,Errand/Supplies,$5.16,June,Mon,0 days 00:08:00,5.16,Mon
+2016-06-06 20:06:00,2016-06-06 20:20:00,Business,Cary,Apex,5.7,Meal/Entertain,$12.26,June,Mon,0 days 00:14:00,12.26,Mon
+2016-06-06 21:08:00,2016-06-06 21:37:00,Business,Apex,Cary,7.2,Meal/Entertain,$15.48,June,Mon,0 days 00:29:00,15.48,Mon
+2016-06-06 21:41:00,2016-06-06 22:00:00,Business,Cary,Durham,10.4,Meeting,$22.36,June,Mon,0 days 00:19:00,22.36,Mon
+2016-06-06 23:34:00,2016-06-06 23:48:00,Business,Durham,Cary,9.9,Meeting,$21.29,June,Mon,0 days 00:14:00,21.29,Mon
+2016-06-07 21:42:00,2016-06-07 22:00:00,Business,Cary,Durham,10.4,Meeting,$22.36,June,Tues,0 days 00:18:00,22.36,Tues
+2016-06-07 23:41:00,2016-06-08 00:04:00,Business,Durham,Cary,9.9,Meeting,$21.29,June,Tues,0 days 00:23:00,21.29,Tues
+2016-06-08 08:23:00,2016-06-08 08:53:00,Business,Cary,Morrisville,8.7,Meal/Entertain,$18.71,June,Wed,0 days 00:30:00,18.71,Wed
+2016-06-08 12:04:00,2016-06-08 13:01:00,Business,Jamaica,New York,22.3,Errand/Supplies,$47.95,June,Wed,0 days 00:57:00,47.95,Wed
+2016-06-08 13:12:00,2016-06-08 13:29:00,Business,Seaport,Gramercy-Flatiron,3.3,Meal/Entertain,$7.10,June,Wed,0 days 00:17:00,7.1,Wed
+2016-06-08 14:31:00,2016-06-08 14:37:00,Business,Medical Centre,Tudor City,0.7,Errand/Supplies,$1.51,June,Wed,0 days 00:06:00,1.51,Wed
+2016-06-08 16:55:00,2016-06-08 17:11:00,Business,Rose Hill,Soho,2.5,Meal/Entertain,$5.38,June,Wed,0 days 00:16:00,5.38,Wed
+2016-06-08 17:16:00,2016-06-08 17:18:00,Business,Soho,Tribeca,0.5,Errand/Supplies,$1.08,June,Wed,0 days 00:02:00,1.08,Wed
+2016-06-08 17:59:00,2016-06-08 18:05:00,Business,Tribeca,Financial District,0.9,Errand/Supplies,$1.94,June,Wed,0 days 00:06:00,1.94,Wed
+2016-06-08 20:11:00,2016-06-08 20:25:00,Business,Financial District,Kips Bay,4.8,Errand/Supplies,$10.32,June,Wed,0 days 00:14:00,10.32,Wed
+2016-06-10 15:19:00,2016-06-10 16:28:00,Business,New York,Jamaica,16.3,Meeting,$35.05,June,Fri,0 days 01:09:00,35.05,Fri
+2016-06-10 21:47:00,2016-06-10 22:04:00,Business,Cary,Durham,10.4,Meeting,$22.36,June,Fri,0 days 00:17:00,22.36,Fri
+2016-06-10 23:53:00,2016-06-11 00:01:00,Business,Durham,Cary,9.9,Meeting,$21.29,June,Fri,0 days 00:08:00,21.29,Fri
+2016-06-11 17:08:00,2016-06-11 17:16:00,Business,Cary,Morrisville,3.7,Errand/Supplies,$7.96,June,Sat,0 days 00:08:00,7.96,Sat
+2016-06-11 17:34:00,2016-06-11 17:39:00,Business,Morrisville,Cary,4.6,Meal/Entertain,$9.89,June,Sat,0 days 00:05:00,9.89,Sat
+2016-06-11 21:45:00,2016-06-11 22:04:00,Business,Cary,Durham,10.4,Meeting,$22.36,June,Sat,0 days 00:19:00,22.36,Sat
+2016-06-11 23:39:00,2016-06-12 00:05:00,Business,Durham,Cary,9.9,Meeting,$21.29,June,Sat,0 days 00:26:00,21.29,Sat
+2016-06-12 19:53:00,2016-06-12 19:56:00,Business,Cary,Morrisville,2.5,Meal/Entertain,$5.38,June,Sun,0 days 00:03:00,5.38,Sun
+2016-06-12 20:05:00,2016-06-12 20:16:00,Business,Morrisville,Cary,4.3,Errand/Supplies,$9.25,June,Sun,0 days 00:11:00,9.25,Sun
+2016-06-12 21:58:00,2016-06-12 22:19:00,Business,Parkway,Whitebridge,2.8,Errand/Supplies,$6.02,June,Sun,0 days 00:21:00,6.02,Sun
+2016-06-13 05:23:00,2016-06-13 05:42:00,Business,Cary,Morrisville,8.4,Meal/Entertain,$18.06,June,Mon,0 days 00:19:00,18.06,Mon
+2016-06-13 14:17:00,2016-06-13 14:46:00,Business,Oakland,Emeryville,13.2,Meeting,$28.38,June,Mon,0 days 00:29:00,28.38,Mon
+2016-06-13 18:08:00,2016-06-13 18:47:00,Business,Emeryville,Berkeley,3.9,Meal/Entertain,$8.39,June,Mon,0 days 00:39:00,8.39,Mon
+2016-06-13 18:54:00,2016-06-13 19:23:00,Business,Berkeley,Oakland,5.1,Meal/Entertain,$10.97,June,Mon,0 days 00:29:00,10.97,Mon
+2016-06-14 16:09:00,2016-06-14 16:39:00,Business,San Francisco,Emeryville,11.6,Meeting,$24.94,June,Tues,0 days 00:30:00,24.94,Tues
+2016-06-14 17:15:00,2016-06-14 17:24:00,Business,Emeryville,Oakland,5.1,Meeting,$10.97,June,Tues,0 days 00:09:00,10.97,Tues
+2016-06-14 17:27:00,2016-06-14 17:57:00,Business,Downtown,Bay Farm Island,9.3,Errand/Supplies,$20.00,June,Tues,0 days 00:30:00,20.0,Tues
+2016-06-15 01:46:00,2016-06-15 02:06:00,Business,Kenner,New Orleans,12.4,Between Offices,$26.66,June,Wed,0 days 00:20:00,26.66,Wed
+2016-06-15 15:26:00,2016-06-15 15:34:00,Business,CBD,Lower Garden District,1.9,Between Offices,$4.09,June,Wed,0 days 00:08:00,4.09,Wed
+2016-06-15 16:37:00,2016-06-15 17:02:00,Business,Lower Garden District,Lakeview,6.4,Customer Visit,$13.76,June,Wed,0 days 00:25:00,13.76,Wed
+2016-06-15 19:52:00,2016-06-15 19:58:00,Business,Storyville,Faubourg Marigny,1.5,Meal/Entertain,$3.23,June,Wed,0 days 00:06:00,3.23,Wed
+2016-06-21 17:11:00,2016-06-21 18:02:00,Business,Raleigh,Cary,16.6,Meal/Entertain,$35.69,June,Tues,0 days 00:51:00,35.69,Tues
+2016-06-24 10:41:00,2016-06-24 10:57:00,Business,Whitebridge,Waverly Place,7.1,Meal/Entertain,$15.27,June,Fri,0 days 00:16:00,15.27,Fri
+2016-06-24 11:54:00,2016-06-24 12:01:00,Business,Waverly Place,Macgregor Downs,2.1,Meal/Entertain,$4.52,June,Fri,0 days 00:07:00,4.52,Fri
+2016-06-24 12:19:00,2016-06-24 12:37:00,Business,Cary,Raleigh,8.6,Errand/Supplies,$18.49,June,Fri,0 days 00:18:00,18.49,Fri
+2016-06-24 12:50:00,2016-06-24 13:12:00,Business,Raleigh,Morrisville,9.0,Errand/Supplies,$19.35,June,Fri,0 days 00:22:00,19.35,Fri
+2016-06-24 13:18:00,2016-06-24 13:27:00,Business,Morrisville,Cary,3.1,Errand/Supplies,$6.67,June,Fri,0 days 00:09:00,6.67,Fri
+2016-06-24 14:01:00,2016-06-24 14:20:00,Business,Cary,Morrisville,8.4,Temporary Site,$18.06,June,Fri,0 days 00:19:00,18.06,Fri
+2016-06-25 09:15:00,2016-06-25 10:08:00,Business,New Orleans,Chalmette,11.8,Between Offices,$25.37,June,Sat,0 days 00:53:00,25.37,Sat
+2016-06-25 10:18:00,2016-06-25 10:25:00,Business,Chalmette,Arabi,1.1,Errand/Supplies,$2.37,June,Sat,0 days 00:07:00,2.37,Sat
+2016-06-25 10:50:00,2016-06-25 11:18:00,Business,Arabi,Metairie,17.0,Meal/Entertain,$36.55,June,Sat,0 days 00:28:00,36.55,Sat
+2016-06-25 11:25:00,2016-06-25 11:34:00,Business,Pontchartrain Shores,Pontchartrain Shores,1.7,Meeting,$3.66,June,Sat,0 days 00:09:00,3.66,Sat
+2016-06-25 11:53:00,2016-06-25 13:21:00,Business,Metairie,New Orleans,15.5,Meeting,$33.33,June,Sat,0 days 01:28:00,33.33,Sat
+2016-06-26 17:43:00,2016-06-26 18:18:00,Business,New Orleans,Kenner,12.6,Meeting,$27.09,June,Sun,0 days 00:35:00,27.09,Sun
+2016-06-28 00:48:00,2016-06-28 01:05:00,Business,Morrisville,Cary,8.2,Customer Visit,$17.63,June,Tues,0 days 00:17:00,17.63,Tues
+2016-06-28 20:13:00,2016-06-28 20:33:00,Business,Cary,Durham,10.4,Meeting,$22.36,June,Tues,0 days 00:20:00,22.36,Tues
+2016-06-28 23:34:00,2016-06-28 23:59:00,Business,Durham,Cary,9.9,Meeting,$21.29,June,Tues,0 days 00:25:00,21.29,Tues
+2016-06-28 23:34:00,2016-06-28 23:59:00,Business,Durham,Cary,9.9,Meeting,$21.29,June,Tues,0 days 00:25:00,21.29,Tues
+2016-06-29 20:11:00,2016-06-29 20:29:00,Business,Cary,Durham,10.4,Meeting,$22.36,June,Wed,0 days 00:18:00,22.36,Wed
+2016-06-29 23:38:00,2016-06-30 00:00:00,Business,Durham,Cary,9.9,Meeting,$21.29,June,Wed,0 days 00:22:00,21.29,Wed
+2016-06-30 20:09:00,2016-06-30 20:26:00,Business,Cary,Durham,9.9,Meeting,$21.29,June,Thus,0 days 00:17:00,21.29,Thus
+2016-07-01 00:00:00,2016-07-01 00:25:00,Business,Durham,Cary,9.9,Meeting,$21.29,July,Fri,0 days 00:25:00,21.29,Fri
+2016-07-01 09:34:00,2016-07-01 09:57:00,Business,Cary,Raleigh,13.3,Meeting,$28.60,July,Fri,0 days 00:23:00,28.6,Fri
+2016-07-01 12:36:00,2016-07-01 13:00:00,Business,Raleigh,Cary,11.3,Meeting,$24.30,July,Fri,0 days 00:24:00,24.3,Fri
+2016-07-01 20:06:00,2016-07-01 20:24:00,Business,Cary,Durham,10.5,Meeting,$22.58,July,Fri,0 days 00:18:00,22.58,Fri
+2016-07-01 23:48:00,2016-07-02 00:09:00,Business,Durham,Cary,9.9,Meeting,$21.29,July,Fri,0 days 00:21:00,21.29,Fri
+2016-07-02 20:18:00,2016-07-02 20:36:00,Business,Cary,Durham,10.1,Meeting,$21.72,July,Sat,0 days 00:18:00,21.72,Sat
+2016-07-02 23:48:00,2016-07-03 00:12:00,Business,Durham,Cary,9.9,Meeting,$21.29,July,Sat,0 days 00:24:00,21.29,Sat
+2016-07-03 00:28:00,2016-07-03 00:38:00,Business,Cary,Morrisville,3.1,Errand/Supplies,$6.67,July,Sun,0 days 00:10:00,6.67,Sun
+2016-07-03 03:02:00,2016-07-03 03:08:00,Business,Morrisville,Cary,3.1,Errand/Supplies,$6.67,July,Sun,0 days 00:06:00,6.67,Sun
+2016-07-03 20:00:00,2016-07-03 20:18:00,Business,Cary,Durham,9.9,Meeting,$21.29,July,Sun,0 days 00:18:00,21.29,Sun
+2016-07-04 00:32:00,2016-07-04 00:47:00,Business,Durham,Cary,9.9,Meeting,$21.29,July,Mon,0 days 00:15:00,21.29,Mon
+2016-07-04 17:31:00,2016-07-04 17:49:00,Business,Whitebridge,Summerwinds,8.8,Meeting,$18.92,July,Mon,0 days 00:18:00,18.92,Mon
+2016-07-04 18:23:00,2016-07-04 18:49:00,Business,Summerwinds,Whitebridge,8.7,Temporary Site,$18.71,July,Mon,0 days 00:26:00,18.71,Mon
+2016-07-04 20:00:00,2016-07-04 20:17:00,Business,Cary,Durham,11.8,Meeting,$25.37,July,Mon,0 days 00:17:00,25.37,Mon
+2016-07-05 00:00:00,2016-07-05 00:05:00,Business,Parkwood,Parkwood,1.2,Errand/Supplies,$2.58,July,Tues,0 days 00:05:00,2.58,Tues
+2016-07-05 00:08:00,2016-07-05 00:28:00,Business,Durham,Cary,9.9,Meeting,$21.29,July,Tues,0 days 00:20:00,21.29,Tues
+2016-07-05 16:48:00,2016-07-05 16:52:00,Business,Whitebridge,Whitebridge,0.6,Errand/Supplies,$1.29,July,Tues,0 days 00:04:00,1.29,Tues
+2016-07-06 00:33:00,2016-07-06 00:53:00,Business,Morrisville,Cary,6.3,Meal/Entertain,$13.55,July,Wed,0 days 00:20:00,13.55,Wed
+2016-07-06 09:06:00,2016-07-06 09:25:00,Business,Cary,Durham,9.9,Meeting,$21.29,July,Wed,0 days 00:19:00,21.29,Wed
+2016-07-06 20:04:00,2016-07-06 20:14:00,Business,Cary,Morrisville,3.3,Meal/Entertain,$7.10,July,Wed,0 days 00:10:00,7.1,Wed
+2016-07-06 23:46:00,2016-07-06 23:59:00,Business,Morrisville,Cary,3.1,Customer Visit,$6.67,July,Wed,0 days 00:13:00,6.67,Wed
+2016-07-07 08:22:00,2016-07-07 08:50:00,Business,Cary,Morrisville,7.9,Temporary Site,$16.99,July,Thus,0 days 00:28:00,16.99,Thus
+2016-07-14 16:03:00,2016-07-14 16:34:00,Business,Morrisville,Morrisville,11.8,Errand/Supplies,$25.37,July,Thus,0 days 00:31:00,25.37,Thus
+2016-07-16 22:50:00,2016-07-16 23:03:00,Business,Banner Elk,Banner Elk,4.4,Errand/Supplies,$9.46,July,Sat,0 days 00:13:00,9.46,Sat
+2016-07-17 11:23:00,2016-07-17 11:50:00,Personal,Banner Elk,Boone,15.1,Charity ($),$32.47,July,Sun,0 days 00:27:00,32.47,Sun
+2016-07-17 12:20:00,2016-07-17 15:25:00,Personal,Boone,Cary,180.2,Commute,$387.43,July,Sun,0 days 03:05:00,387.43,Sun
+2016-07-18 10:37:00,2016-07-18 10:49:00,Personal,Cary,Morrisville,4.1,Moving,$8.82,July,Mon,0 days 00:12:00,8.82,Mon
+2016-07-18 10:54:00,2016-07-18 11:15:00,Personal,Morrisville,Cary,6.1,Moving,$13.12,July,Mon,0 days 00:21:00,13.12,Mon
+2016-07-18 11:25:00,2016-07-18 11:36:00,Personal,Northwoods,Preston,3.3,Moving,$7.10,July,Mon,0 days 00:11:00,7.1,Mon
+2016-07-18 11:40:00,2016-07-18 11:56:00,Personal,Preston,Whitebridge,4.7,Moving,$10.11,July,Mon,0 days 00:16:00,10.11,Mon
+2016-07-18 17:12:00,2016-07-18 17:33:00,Business,Cary,Apex,7.2,Meeting,$15.48,July,Mon,0 days 00:21:00,15.48,Mon
+2016-07-18 18:32:00,2016-07-18 18:47:00,Business,Apex,Cary,5.5,Meal/Entertain,$11.83,July,Mon,0 days 00:15:00,11.83,Mon
+2016-07-18 19:07:00,2016-07-18 19:14:00,Business,Cary,Morrisville,3.3,Meal/Entertain,$7.10,July,Mon,0 days 00:07:00,7.1,Mon
+2016-07-18 20:28:00,2016-07-18 20:32:00,Business,Hazelwood,Weston,0.9,Errand/Supplies,$1.94,July,Mon,0 days 00:04:00,1.94,Mon
+2016-07-18 21:11:00,2016-07-18 21:19:00,Business,Morrisville,Cary,3.8,Meal/Entertain,$8.17,July,Mon,0 days 00:08:00,8.17,Mon
+2016-07-19 10:35:00,2016-07-19 10:51:00,Business,Whitebridge,Stonewater,6.4,Customer Visit,$13.76,July,Tues,0 days 00:16:00,13.76,Tues
+2016-07-19 10:56:00,2016-07-19 11:11:00,Business,Stonewater,Lexington Park at Amberly,3.0,Meeting,$6.45,July,Tues,0 days 00:15:00,6.45,Tues
+2016-07-19 11:30:00,2016-07-19 12:00:00,Business,Lexington Park at Amberly,Whitebridge,8.7,Meal/Entertain,$18.71,July,Tues,0 days 00:30:00,18.71,Tues
+2016-07-19 17:14:00,2016-07-19 17:24:00,Business,Whitebridge,Chessington,3.9,Errand/Supplies,$8.39,July,Tues,0 days 00:10:00,8.39,Tues
+2016-07-22 13:21:00,2016-07-22 13:42:00,Business,Durham,Cary,9.9,Meeting,$21.29,July,Fri,0 days 00:21:00,21.29,Fri
+2016-07-22 14:27:00,2016-07-22 14:43:00,Business,Cary,Morrisville,6.1,Meal/Entertain,$13.12,July,Fri,0 days 00:16:00,13.12,Fri
+2016-07-23 20:17:00,2016-07-23 20:33:00,Business,Cary,Durham,10.4,Meeting,$22.36,July,Sat,0 days 00:16:00,22.36,Sat
+2016-07-23 23:18:00,2016-07-23 23:43:00,Business,Durham,Cary,9.9,Meeting,$21.29,July,Sat,0 days 00:25:00,21.29,Sat
+2016-07-26 20:52:00,2016-07-26 21:00:00,Business,Cary,Morrisville,2.5,Meal/Entertain,$5.38,July,Tues,0 days 00:08:00,5.38,Tues
+2016-07-26 22:31:00,2016-07-26 22:39:00,Business,Morrisville,Cary,2.5,Meal/Entertain,$5.38,July,Tues,0 days 00:08:00,5.38,Tues
+2016-07-29 17:27:00,2016-07-29 17:45:00,Business,Westpark Place,Whitebridge,2.2,Meal/Entertain,$4.73,July,Fri,0 days 00:18:00,4.73,Fri
+2016-08-02 08:11:00,2016-08-02 08:32:00,Business,Cary,Morrisville,8.4,Meeting,$18.06,Aug,Tues,0 days 00:21:00,18.06,Tues
+2016-08-07 17:28:00,2016-08-07 17:43:00,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit,$5.81,Aug,Sun,0 days 00:15:00,5.81,Sun
+2016-08-07 20:15:00,2016-08-07 20:23:00,Business,Morrisville,Cary,2.5,Meal/Entertain,$5.38,Aug,Sun,0 days 00:08:00,5.38,Sun
+2016-08-08 17:02:00,2016-08-08 17:13:00,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit,$5.81,Aug,Mon,0 days 00:11:00,5.81,Mon
+2016-08-08 23:28:00,2016-08-08 23:37:00,Business,Morrisville,Cary,3.2,Customer Visit,$6.88,Aug,Mon,0 days 00:09:00,6.88,Mon
+2016-08-13 15:35:00,2016-08-13 15:58:00,Business,Cary,Morrisville,8.4,Meeting,$18.06,Aug,Sat,0 days 00:23:00,18.06,Sat
+2016-10-16 12:52:00,2016-10-16 13:11:00,Business,Cary,Durham,10.5,Meeting,$22.58,Oct,Sun,0 days 00:19:00,22.58,Sun
+2016-10-16 19:27:00,2016-10-16 19:33:00,Business,Whitebridge,Parkway,2.1,Meeting,$4.52,Oct,Sun,0 days 00:06:00,4.52,Sun
+2016-10-16 21:34:00,2016-10-16 21:41:00,Business,Morrisville,Cary,2.5,Meal/Entertain,$5.38,Oct,Sun,0 days 00:07:00,5.38,Sun
+2016-10-18 10:41:00,2016-10-18 11:09:00,Business,Cary,Morrisville,7.9,Temporary Site,$16.99,Oct,Tues,0 days 00:28:00,16.99,Tues
+2016-10-23 19:04:00,2016-10-23 19:14:00,Business,Cary,Morrisville,3.1,Meal/Entertain,$6.67,Oct,Sun,0 days 00:10:00,6.67,Sun
+2016-10-23 21:10:00,2016-10-23 21:25:00,Business,Morrisville,Cary,3.1,Customer Visit,$6.67,Oct,Sun,0 days 00:15:00,6.67,Sun
+2016-10-25 20:00:00,2016-10-25 20:11:00,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,$7.74,Oct,Tues,0 days 00:11:00,7.74,Tues
+2016-10-25 22:24:00,2016-10-25 22:45:00,Business,Parkway,Whitebridge,8.7,Errand/Supplies,$18.71,Oct,Tues,0 days 00:21:00,18.71,Tues
+2016-10-26 19:25:00,2016-10-26 19:31:00,Business,Whitebridge,Parkway,2.1,Meeting,$4.52,Oct,Wed,0 days 00:06:00,4.52,Wed
+2016-10-27 18:51:00,2016-10-27 19:16:00,Business,Cary,Morrisville,8.4,Meeting,$18.06,Oct,Thus,0 days 00:25:00,18.06,Thus
+2016-10-28 11:34:00,2016-10-28 11:52:00,Business,Cary,Durham,10.4,Meeting,$22.36,Oct,Fri,0 days 00:18:00,22.36,Fri
+2016-10-28 13:06:00,2016-10-28 13:36:00,Business,Durham,Cary,9.9,Meeting,$21.29,Oct,Fri,0 days 00:30:00,21.29,Fri
+2016-10-28 15:53:00,2016-10-28 17:59:00,Business,Cary,Winston Salem,107.0,Meeting,$230.05,Oct,Fri,0 days 02:06:00,230.05,Fri
+2016-10-28 18:13:00,2016-10-28 20:07:00,Business,Winston Salem,Asheville,133.6,Meeting,$287.24,Oct,Fri,0 days 01:54:00,287.24,Fri
+2016-10-28 20:13:00,2016-10-28 22:00:00,Business,Asheville,Topton,91.8,Meeting,$197.37,Oct,Fri,0 days 01:47:00,197.37,Fri
+2016-10-29 15:22:00,2016-10-29 17:05:00,Business,Topton,Hayesville,40.7,Meeting,$87.51,Oct,Sat,0 days 01:43:00,87.51,Sat
+2016-10-31 21:45:00,2016-10-31 22:10:00,Business,Savon Height,Whitebridge,9.6,Errand/Supplies,$20.64,Oct,Mon,0 days 00:25:00,20.64,Mon
+2016-11-01 20:41:00,2016-11-01 20:55:00,Business,Whitebridge,Whitebridge,4.2,Meal/Entertain,$9.03,Nov,Tues,0 days 00:14:00,9.03,Tues
+2016-11-02 16:46:00,2016-11-02 17:11:00,Business,Cary,Morrisville,8.5,Meeting,$18.28,Nov,Wed,0 days 00:25:00,18.28,Wed
+2016-11-03 18:51:00,2016-11-03 19:08:00,Business,Cary,Morrisville,3.1,Meal/Entertain,$6.67,Nov,Thus,0 days 00:17:00,6.67,Thus
+2016-11-03 22:46:00,2016-11-03 22:58:00,Business,Morrisville,Cary,3.1,Customer Visit,$6.67,Nov,Thus,0 days 00:12:00,6.67,Thus
+2016-11-04 10:02:00,2016-11-04 10:18:00,Business,Cary,Morrisville,7.9,Temporary Site,$16.99,Nov,Fri,0 days 00:16:00,16.99,Fri
+2016-11-06 16:05:00,2016-11-06 16:22:00,Business,Renaissance,Agnew,2.8,Meeting,$6.02,Nov,Sun,0 days 00:17:00,6.02,Sun
+2016-11-06 16:27:00,2016-11-06 17:28:00,Business,Santa Clara,Berkeley,43.9,Customer Visit,$94.39,Nov,Sun,0 days 01:01:00,94.39,Sun
+2016-11-07 12:28:00,2016-11-07 12:57:00,Business,Berkeley,San Francisco,11.8,Between Offices,$25.37,Nov,Mon,0 days 00:29:00,25.37,Mon
+2016-11-07 19:17:00,2016-11-07 19:57:00,Business,San Francisco,Berkeley,13.2,Between Offices,$28.38,Nov,Mon,0 days 00:40:00,28.38,Mon
+2016-11-08 10:29:00,2016-11-08 10:57:00,Business,Berkeley,San Francisco,12.2,Between Offices,$26.23,Nov,Tues,0 days 00:28:00,26.23,Tues
+2016-11-08 12:16:00,2016-11-08 12:49:00,Business,San Francisco,Berkeley,11.3,Meeting,$24.30,Nov,Tues,0 days 00:33:00,24.3,Tues
+2016-11-09 18:21:00,2016-11-09 18:35:00,Business,Ingleside,Potrero Flats,5.5,Meeting,$11.83,Nov,Wed,0 days 00:14:00,11.83,Wed
+2016-11-09 18:40:00,2016-11-09 19:17:00,Business,San Francisco,Oakland,12.7,Customer Visit,$27.31,Nov,Wed,0 days 00:37:00,27.31,Wed
+2016-11-10 09:46:00,2016-11-10 10:15:00,Business,Berkeley,San Francisco,12.6,Temporary Site,$27.09,Nov,Thus,0 days 00:29:00,27.09,Thus
+2016-11-10 15:17:00,2016-11-10 15:22:00,Business,San Francisco,Oakland,9.9,Temporary Site,$21.29,Nov,Thus,0 days 00:05:00,21.29,Thus
+2016-11-10 15:30:00,2016-11-10 15:53:00,Business,Oakland,Berkeley,6.0,Meeting,$12.90,Nov,Thus,0 days 00:23:00,12.9,Thus
+2016-11-11 09:35:00,2016-11-11 10:23:00,Business,Berkeley,Menlo Park,45.9,Customer Visit,$98.69,Nov,Fri,0 days 00:48:00,98.69,Fri
+2016-11-11 14:39:00,2016-11-11 15:46:00,Business,Menlo Park,Berkeley,36.6,Customer Visit,$78.69,Nov,Fri,0 days 01:07:00,78.69,Fri
+2016-11-12 14:22:00,2016-11-12 14:53:00,Business,West Berkeley,South,5.9,Meeting,$12.69,Nov,Sat,0 days 00:31:00,12.69,Sat
+2016-11-12 15:40:00,2016-11-12 15:59:00,Business,Emeryville,Berkeley,3.7,Errand/Supplies,$7.96,Nov,Sat,0 days 00:19:00,7.96,Sat
+2016-11-13 12:22:00,2016-11-13 12:51:00,Business,West Berkeley,Southside,4.0,Meeting,$8.60,Nov,Sun,0 days 00:29:00,8.6,Sun
+2016-11-14 11:24:00,2016-11-14 12:13:00,Business,Berkeley,Mountain View,44.6,Customer Visit,$95.89,Nov,Mon,0 days 00:49:00,95.89,Mon
+2016-11-14 13:40:00,2016-11-14 14:33:00,Business,Mountain View,Berkeley,43.6,Customer Visit,$93.74,Nov,Mon,0 days 00:53:00,93.74,Mon
+2016-11-14 20:19:00,2016-11-14 20:30:00,Business,Emeryville,Berkeley,3.7,Errand/Supplies,$7.96,Nov,Mon,0 days 00:11:00,7.96,Mon
+2016-11-15 14:09:00,2016-11-15 14:26:00,Business,Oakland,San Francisco,9.7,Temporary Site,$20.86,Nov,Tues,0 days 00:17:00,20.86,Tues
+2016-11-15 20:44:00,2016-11-15 21:00:00,Business,San Francisco,Berkeley,11.8,Temporary Site,$25.37,Nov,Tues,0 days 00:16:00,25.37,Tues
+2016-11-16 20:21:00,2016-11-16 20:27:00,Business,Berkeley,El Cerrito,2.3,Temporary Site,$4.95,Nov,Wed,0 days 00:06:00,4.95,Wed
+2016-11-16 22:52:00,2016-11-16 23:02:00,Business,El Cerrito,Berkeley,3.1,Meal/Entertain,$6.67,Nov,Wed,0 days 00:10:00,6.67,Wed
+2016-11-17 10:13:00,2016-11-17 10:44:00,Business,Berkeley,Oakland,16.3,Customer Visit,$35.05,Nov,Thus,0 days 00:31:00,35.05,Thus
+2016-11-18 20:09:00,2016-11-18 20:19:00,Business,Cary,Morrisville,3.1,Meal/Entertain,$6.67,Nov,Fri,0 days 00:10:00,6.67,Fri
+2016-11-18 21:23:00,2016-11-18 21:34:00,Business,Morrisville,Cary,5.2,Meal/Entertain,$11.18,Nov,Fri,0 days 00:11:00,11.18,Fri
+2016-11-18 21:56:00,2016-11-18 22:21:00,Business,Krendle Woods,Whitebridge,6.1,Meeting,$13.12,Nov,Fri,0 days 00:25:00,13.12,Fri
+2016-11-19 13:51:00,2016-11-19 14:10:00,Business,Cary,Durham,10.3,Meeting,$22.15,Nov,Sat,0 days 00:19:00,22.15,Sat
+2016-11-19 14:30:00,2016-11-19 14:51:00,Business,Durham,Cary,10.5,Meeting,$22.58,Nov,Sat,0 days 00:21:00,22.58,Sat
+2016-11-19 17:41:00,2016-11-19 17:54:00,Business,Cary,Apex,5.4,Errand/Supplies,$11.61,Nov,Sat,0 days 00:13:00,11.61,Sat
+2016-11-19 21:14:00,2016-11-19 21:35:00,Business,Apex,Cary,5.4,Customer Visit,$11.61,Nov,Sat,0 days 00:21:00,11.61,Sat
+2016-11-20 10:27:00,2016-11-20 11:32:00,Business,Cary,Cary,39.2,Between Offices,$84.28,Nov,Sun,0 days 01:05:00,84.28,Sun
+2016-11-20 11:58:00,2016-11-20 12:28:00,Business,Cary,Cary,6.4,Customer Visit,$13.76,Nov,Sun,0 days 00:30:00,13.76,Sun
+2016-11-20 14:58:00,2016-11-20 15:07:00,Business,Cary,Cary,2.7,Meeting,$5.81,Nov,Sun,0 days 00:09:00,5.81,Sun
+2016-11-20 17:45:00,2016-11-20 18:37:00,Business,Cary,Cary,18.5,Errand/Supplies,$39.78,Nov,Sun,0 days 00:52:00,39.78,Sun
+2016-11-21 13:37:00,2016-11-21 13:49:00,Business,Cary,Cary,2.5,Meal/Entertain,$5.38,Nov,Mon,0 days 00:12:00,5.38,Mon
+2016-11-21 14:34:00,2016-11-21 14:44:00,Business,Cary,Cary,2.1,Meal/Entertain,$4.52,Nov,Mon,0 days 00:10:00,4.52,Mon
+2016-11-21 18:43:00,2016-11-21 18:51:00,Business,Morrisville,Cary,3.4,Errand/Supplies,$7.31,Nov,Mon,0 days 00:08:00,7.31,Mon
+2016-11-22 15:12:00,2016-11-22 15:27:00,Business,Cary,Cary,5.5,Meeting,$11.83,Nov,Tues,0 days 00:15:00,11.83,Tues
+2016-11-22 15:31:00,2016-11-22 15:44:00,Business,Cary,Cary,4.1,Meeting,$8.82,Nov,Tues,0 days 00:13:00,8.82,Tues
+2016-11-22 15:51:00,2016-11-22 16:43:00,Business,Cary,Cary,12.7,Customer Visit,$27.31,Nov,Tues,0 days 00:52:00,27.31,Tues
+2016-11-22 18:18:00,2016-11-22 18:28:00,Business,Cary,Morrisville,3.0,Meal/Entertain,$6.45,Nov,Tues,0 days 00:10:00,6.45,Tues
+2016-11-22 21:02:00,2016-11-22 21:14:00,Business,Morrisville,Cary,3.5,Customer Visit,$7.53,Nov,Tues,0 days 00:12:00,7.53,Tues
+2016-11-23 15:34:00,2016-11-23 15:50:00,Business,Cary,Cary,5.9,Meal/Entertain,$12.69,Nov,Wed,0 days 00:16:00,12.69,Wed
+2016-11-25 11:47:00,2016-11-25 12:04:00,Business,Cary,Durham,10.3,Meeting,$22.15,Nov,Fri,0 days 00:17:00,22.15,Fri
+2016-11-25 13:13:00,2016-11-25 13:31:00,Business,Durham,Cary,11.1,Meeting,$23.87,Nov,Fri,0 days 00:18:00,23.87,Fri
+2016-11-26 17:00:00,2016-11-26 17:12:00,Business,Cary,Apex,5.1,Meeting,$10.97,Nov,Sat,0 days 00:12:00,10.97,Sat
+2016-11-26 17:36:00,2016-11-26 17:56:00,Business,Apex,Holly Springs,9.0,Meeting,$19.35,Nov,Sat,0 days 00:20:00,19.35,Sat
+2016-11-26 18:29:00,2016-11-26 19:04:00,Business,Holly Springs,Cary,13.3,Between Offices,$28.60,Nov,Sat,0 days 00:35:00,28.6,Sat
+2016-11-26 19:47:00,2016-11-26 19:54:00,Business,Cary,Cary,2.5,Errand/Supplies,$5.38,Nov,Sat,0 days 00:07:00,5.38,Sat
+2016-11-27 15:59:00,2016-11-27 16:06:00,Business,Cary,Morrisville,3.3,Meal/Entertain,$7.10,Nov,Sun,0 days 00:07:00,7.1,Sun
+2016-11-30 11:03:00,2016-11-30 11:34:00,Business,Cary,Raleigh,8.5,Customer Visit,$18.28,Nov,Wed,0 days 00:31:00,18.28,Wed
+2016-11-30 11:53:00,2016-11-30 12:35:00,Business,Raleigh,Morrisville,6.7,Temporary Site,$14.41,Nov,Wed,0 days 00:42:00,14.41,Wed
+2016-12-01 07:44:00,2016-12-01 07:59:00,Business,Cary,Cary,5.5,Meeting,$11.83,Dec,Thus,0 days 00:15:00,11.83,Thus
+2016-12-01 08:37:00,2016-12-01 08:53:00,Business,Cary,Cary,5.5,Errand/Supplies,$11.83,Dec,Thus,0 days 00:16:00,11.83,Thus
+2016-12-01 18:00:00,2016-12-01 18:12:00,Business,Cary,Morrisville,2.9,Meal/Entertain,$6.24,Dec,Thus,0 days 00:12:00,6.24,Thus
+2016-12-01 20:36:00,2016-12-01 20:46:00,Business,Morrisville,Cary,2.9,Customer Visit,$6.24,Dec,Thus,0 days 00:10:00,6.24,Thus
+2016-12-02 12:12:00,2016-12-02 12:23:00,Business,Cary,Apex,5.1,Meal/Entertain,$10.97,Dec,Fri,0 days 00:11:00,10.97,Fri
+2016-12-02 13:07:00,2016-12-02 13:22:00,Business,Apex,Cary,5.3,Customer Visit,$11.40,Dec,Fri,0 days 00:15:00,11.4,Fri
+2016-12-02 20:41:00,2016-12-02 20:48:00,Business,Cary,Morrisville,3.3,Meal/Entertain,$7.10,Dec,Fri,0 days 00:07:00,7.1,Fri
+2016-12-02 22:59:00,2016-12-02 23:07:00,Business,Morrisville,Cary,3.0,Customer Visit,$6.45,Dec,Fri,0 days 00:08:00,6.45,Fri
+2016-12-03 18:35:00,2016-12-03 18:56:00,Business,Cary,Wake Co.,6.6,Errand/Supplies,$14.19,Dec,Sat,0 days 00:21:00,14.19,Sat
+2016-12-03 20:31:00,2016-12-03 20:41:00,Business,Morrisville,Cary,3.0,Customer Visit,$6.45,Dec,Sat,0 days 00:10:00,6.45,Sat
+2016-12-04 18:56:00,2016-12-04 19:03:00,Business,Cary,Morrisville,2.9,Meal/Entertain,$6.24,Dec,Sun,0 days 00:07:00,6.24,Sun
+2016-12-04 20:23:00,2016-12-04 20:34:00,Business,Morrisville,Cary,3.4,Customer Visit,$7.31,Dec,Sun,0 days 00:11:00,7.31,Sun
+2016-12-05 19:22:00,2016-12-05 19:37:00,Business,Cary,Cary,3.8,Meal/Entertain,$8.17,Dec,Mon,0 days 00:15:00,8.17,Mon
+2016-12-07 12:03:00,2016-12-07 12:32:00,Business,Cary,Cary,6.6,Meeting,$14.19,Dec,Wed,0 days 00:29:00,14.19,Wed
+2016-12-07 12:35:00,2016-12-07 12:46:00,Business,Cary,Cary,4.0,Meeting,$8.60,Dec,Wed,0 days 00:11:00,8.6,Wed
+2016-12-07 19:53:00,2016-12-07 20:13:00,Business,Cary,Cary,7.0,Customer Visit,$15.05,Dec,Wed,0 days 00:20:00,15.05,Wed
+2016-12-07 21:13:00,2016-12-07 21:50:00,Business,Cary,Cary,6.9,Meal/Entertain,$14.84,Dec,Wed,0 days 00:37:00,14.84,Wed
+2016-12-08 14:19:00,2016-12-08 14:32:00,Business,Cary,Cary,3.4,Errand/Supplies,$7.31,Dec,Thus,0 days 00:13:00,7.31,Thus
+2016-12-08 14:53:00,2016-12-08 15:02:00,Business,Cary,Cary,3.4,Errand/Supplies,$7.31,Dec,Thus,0 days 00:09:00,7.31,Thus
+2016-12-08 19:22:00,2016-12-08 19:27:00,Business,Cary,Cary,2.0,Meeting,$4.30,Dec,Thus,0 days 00:05:00,4.3,Thus
+2016-12-08 21:26:00,2016-12-08 21:31:00,Business,Cary,Cary,2.0,Errand/Supplies,$4.30,Dec,Thus,0 days 00:05:00,4.3,Thus
+2016-12-09 12:09:00,2016-12-09 12:24:00,Business,Cary,Apex,5.1,Errand/Supplies,$10.97,Dec,Fri,0 days 00:15:00,10.97,Fri
+2016-12-09 13:15:00,2016-12-09 13:43:00,Business,Apex,Cary,8.8,Temporary Site,$18.92,Dec,Fri,0 days 00:28:00,18.92,Fri
+2016-12-09 20:11:00,2016-12-09 20:34:00,Business,Cary,Cary,5.6,Meeting,$12.04,Dec,Fri,0 days 00:23:00,12.04,Fri
+2016-12-09 22:03:00,2016-12-09 22:57:00,Business,Cary,Cary,18.9,Customer Visit,$40.64,Dec,Fri,0 days 00:54:00,40.64,Fri
+2016-12-10 12:43:00,2016-12-10 13:16:00,Business,Cary,Fuquay-Varina,15.6,Meeting,$33.54,Dec,Sat,0 days 00:33:00,33.54,Sat
+2016-12-10 14:42:00,2016-12-10 15:18:00,Business,Fuquay-Varina,Cary,15.6,Errand/Supplies,$33.54,Dec,Sat,0 days 00:36:00,33.54,Sat
+2016-12-10 18:17:00,2016-12-10 18:27:00,Business,Cary,Morrisville,3.0,Meal/Entertain,$6.45,Dec,Sat,0 days 00:10:00,6.45,Sat
+2016-12-10 22:09:00,2016-12-10 22:21:00,Business,Morrisville,Cary,3.1,Customer Visit,$6.67,Dec,Sat,0 days 00:12:00,6.67,Sat
+2016-12-11 16:06:00,2016-12-11 16:16:00,Business,Cary,Morrisville,3.0,Meal/Entertain,$6.45,Dec,Sun,0 days 00:10:00,6.45,Sun
+2016-12-11 19:05:00,2016-12-11 19:15:00,Business,Morrisville,Cary,4.8,Errand/Supplies,$10.32,Dec,Sun,0 days 00:10:00,10.32,Sun
+2016-12-11 21:48:00,2016-12-11 21:56:00,Business,Cary,Cary,2.1,Errand/Supplies,$4.52,Dec,Sun,0 days 00:08:00,4.52,Sun
+2016-12-12 13:22:00,2016-12-12 13:32:00,Business,Cary,Cary,3.1,Errand/Supplies,$6.67,Dec,Mon,0 days 00:10:00,6.67,Mon
+2016-12-12 13:36:00,2016-12-12 13:51:00,Business,Cary,Apex,4.4,Meal/Entertain,$9.46,Dec,Mon,0 days 00:15:00,9.46,Mon
+2016-12-12 14:26:00,2016-12-12 14:39:00,Business,Apex,Cary,4.7,Customer Visit,$10.11,Dec,Mon,0 days 00:13:00,10.11,Mon
+2016-12-12 17:51:00,2016-12-12 18:01:00,Business,Cary,Morrisville,3.0,Meal/Entertain,$6.45,Dec,Mon,0 days 00:10:00,6.45,Mon
+2016-12-12 20:48:00,2016-12-12 20:57:00,Business,Morrisville,Cary,3.0,Customer Visit,$6.45,Dec,Mon,0 days 00:09:00,6.45,Mon
+2016-12-13 18:19:00,2016-12-13 18:29:00,Business,Cary,Cary,4.2,Errand/Supplies,$9.03,Dec,Tues,0 days 00:10:00,9.03,Tues
+2016-12-13 20:20:00,2016-12-13 20:29:00,Business,Cary,Cary,4.1,Meal/Entertain,$8.82,Dec,Tues,0 days 00:09:00,8.82,Tues
+2016-12-14 17:50:00,2016-12-14 18:00:00,Business,Cary,Morrisville,3.0,Meal/Entertain,$6.45,Dec,Wed,0 days 00:10:00,6.45,Wed
+2016-12-14 20:24:00,2016-12-14 20:40:00,Business,Morrisville,Cary,3.1,Customer Visit,$6.67,Dec,Wed,0 days 00:16:00,6.67,Wed
+2016-12-15 14:20:00,2016-12-15 14:54:00,Business,Cary,Morrisville,10.6,Meeting,$22.79,Dec,Thus,0 days 00:34:00,22.79,Thus
+2016-12-19 10:15:00,2016-12-19 10:34:00,Business,Islamabad,Rawalpindi,5.9,Temporary Site,$12.69,Dec,Mon,0 days 00:19:00,12.69,Mon
+2016-12-19 16:50:00,2016-12-19 17:09:00,Business,Rawalpindi,Islamabad,7.2,Customer Visit,$15.48,Dec,Mon,0 days 00:19:00,15.48,Mon
+2016-12-20 10:30:00,2016-12-20 10:48:00,Business,Rawalpindi,Rawalpindi,3.3,Errand/Supplies,$7.10,Dec,Tues,0 days 00:18:00,7.1,Tues
+2016-12-20 16:14:00,2016-12-20 16:24:00,Business,Islamabad,Islamabad,1.8,Errand/Supplies,$3.87,Dec,Tues,0 days 00:10:00,3.87,Tues
+2016-12-20 16:56:00,2016-12-20 17:07:00,Business,Islamabad,Islamabad,1.4,Errand/Supplies,$3.01,Dec,Tues,0 days 00:11:00,3.01,Tues
+2016-12-21 17:45:00,2016-12-21 17:54:00,Business,Islamabad,Islamabad,2.1,Meeting,$4.52,Dec,Wed,0 days 00:09:00,4.52,Wed
+2016-12-22 21:41:00,2016-12-22 21:53:00,Business,Lahore,Lahore,2.1,Meal/Entertain,$4.52,Dec,Thus,0 days 00:12:00,4.52,Thus
+2016-12-22 23:27:00,2016-12-22 23:32:00,Business,Lahore,Lahore,2.1,Customer Visit,$4.52,Dec,Thus,0 days 00:05:00,4.52,Thus
+2016-12-23 09:21:00,2016-12-23 09:41:00,Business,Lahore,Lahore,3.0,Meeting,$6.45,Dec,Fri,0 days 00:20:00,6.45,Fri
+2016-12-24 10:34:00,2016-12-24 10:53:00,Business,Lahore,Lahore,5.3,Meal/Entertain,$11.40,Dec,Sat,0 days 00:19:00,11.4,Sat
+2016-12-24 12:51:00,2016-12-24 12:53:00,Business,Lahore,Lahore,1.6,Errand/Supplies,$3.44,Dec,Sat,0 days 00:02:00,3.44,Sat
+2016-12-24 13:08:00,2016-12-24 13:29:00,Business,Lahore,Lahore,3.6,Errand/Supplies,$7.74,Dec,Sat,0 days 00:21:00,7.74,Sat
+2016-12-24 17:12:00,2016-12-24 17:27:00,Business,Lahore,Lahore,1.7,Errand/Supplies,$3.66,Dec,Sat,0 days 00:15:00,3.66,Sat
+2016-12-24 19:12:00,2016-12-24 19:27:00,Business,Lahore,Lahore,2.9,Meal/Entertain,$6.24,Dec,Sat,0 days 00:15:00,6.24,Sat
+2016-12-24 22:04:00,2016-12-24 22:09:00,Business,Lahore,Lahore,0.6,Errand/Supplies,$1.29,Dec,Sat,0 days 00:05:00,1.29,Sat
+2016-12-25 00:10:00,2016-12-25 00:14:00,Business,Lahore,Lahore,0.6,Errand/Supplies,$1.29,Dec,Sun,0 days 00:04:00,1.29,Sun
+2016-12-25 19:15:00,2016-12-25 19:26:00,Business,Lahore,Lahore,2.3,Meal/Entertain,$4.95,Dec,Sun,0 days 00:11:00,4.95,Sun
+2016-12-25 21:58:00,2016-12-25 22:04:00,Business,Lahore,Lahore,2.3,Meal/Entertain,$4.95,Dec,Sun,0 days 00:06:00,4.95,Sun
+2016-12-26 08:30:00,2016-12-26 08:41:00,Business,Lahore,Lahore,3.2,Meal/Entertain,$6.88,Dec,Mon,0 days 00:11:00,6.88,Mon
+2016-12-26 09:05:00,2016-12-26 09:19:00,Business,Lahore,Lahore,6.2,Customer Visit,$13.33,Dec,Mon,0 days 00:14:00,13.33,Mon
+2016-12-26 10:15:00,2016-12-26 10:36:00,Business,Lahore,Lahore,7.7,Customer Visit,$16.56,Dec,Mon,0 days 00:21:00,16.56,Mon
+2016-12-26 11:29:00,2016-12-26 11:42:00,Business,Lahore,Lahore,3.8,Customer Visit,$8.17,Dec,Mon,0 days 00:13:00,8.17,Mon
+2016-12-27 07:02:00,2016-12-27 07:14:00,Business,Karchi,Karchi,4.9,Temporary Site,$10.54,Dec,Tues,0 days 00:12:00,10.54,Tues
+2016-12-27 08:37:00,2016-12-27 08:59:00,Business,Karchi,Karchi,5.0,Meal/Entertain,$10.75,Dec,Tues,0 days 00:22:00,10.75,Tues
+2016-12-27 12:53:00,2016-12-27 12:57:00,Business,Karchi,Karchi,0.6,Meal/Entertain,$1.29,Dec,Tues,0 days 00:04:00,1.29,Tues
+2016-12-27 19:19:00,2016-12-27 19:50:00,Business,Karchi,Karchi,5.5,Customer Visit,$11.83,Dec,Tues,0 days 00:31:00,11.83,Tues
+2016-12-28 13:53:00,2016-12-28 14:01:00,Business,Karchi,Karchi,2.0,Errand/Supplies,$4.30,Dec,Wed,0 days 00:08:00,4.3,Wed
+2016-12-28 18:33:00,2016-12-28 18:56:00,Business,Karchi,Karchi,3.8,Errand/Supplies,$8.17,Dec,Wed,0 days 00:23:00,8.17,Wed
+2016-12-28 22:44:00,2016-12-28 23:18:00,Business,Karchi,Karchi,5.1,Errand/Supplies,$10.97,Dec,Wed,0 days 00:34:00,10.97,Wed
+2016-12-29 00:49:00,2016-12-29 01:06:00,Business,Karchi,Karchi,3.8,Errand/Supplies,$8.17,Dec,Thus,0 days 00:17:00,8.17,Thus
+2016-12-29 12:25:00,2016-12-29 12:33:00,Business,Karchi,Karchi,1.4,Errand/Supplies,$3.01,Dec,Thus,0 days 00:08:00,3.01,Thus
+2016-12-29 13:17:00,2016-12-29 13:24:00,Business,Karchi,Karchi,1.1,Errand/Supplies,$2.37,Dec,Thus,0 days 00:07:00,2.37,Thus
+2016-12-29 13:56:00,2016-12-29 14:11:00,Business,Karchi,Karchi,4.1,Airport/Travel,$8.82,Dec,Thus,0 days 00:15:00,8.82,Thus
+2016-12-29 14:42:00,2016-12-29 14:58:00,Business,Karchi,Karchi,6.1,Between Offices,$13.12,Dec,Thus,0 days 00:16:00,13.12,Thus
+2016-12-29 15:05:00,2016-12-29 15:16:00,Business,Karchi,Karchi,1.3,Errand/Supplies,$2.80,Dec,Thus,0 days 00:11:00,2.8,Thus
+2016-12-29 20:15:00,2016-12-29 20:45:00,Business,Karchi,Karchi,7.2,Meeting,$15.48,Dec,Thus,0 days 00:30:00,15.48,Thus
+2016-12-30 10:15:00,2016-12-30 10:33:00,Business,Karchi,Karchi,2.8,Errand/Supplies,$6.02,Dec,Fri,0 days 00:18:00,6.02,Fri
+2016-12-30 11:31:00,2016-12-30 11:56:00,Business,Karchi,Karchi,2.9,Errand/Supplies,$6.24,Dec,Fri,0 days 00:25:00,6.24,Fri
+2016-12-30 15:41:00,2016-12-30 16:03:00,Business,Karchi,Karchi,4.6,Errand/Supplies,$9.89,Dec,Fri,0 days 00:22:00,9.89,Fri
+2016-12-30 16:45:00,2016-12-30 17:08:00,Business,Karchi,Karchi,4.6,Meeting,$9.89,Dec,Fri,0 days 00:23:00,9.89,Fri
+2016-12-30 23:06:00,2016-12-30 23:10:00,Business,Karchi,Karchi,0.8,Customer Visit,$1.72,Dec,Fri,0 days 00:04:00,1.72,Fri
+2016-12-31 01:07:00,2016-12-31 01:14:00,Business,Karchi,Karchi,0.7,Meeting,$1.51,Dec,Sat,0 days 00:07:00,1.51,Sat
+2016-12-31 21:32:00,2016-12-31 21:50:00,Business,Katunayake,Gampaha,6.4,Temporary Site,$13.76,Dec,Sat,0 days 00:18:00,13.76,Sat
+2016-12-31 22:08:00,2016-12-31 23:51:00,Business,Gampaha,Ilukwatta,48.2,Temporary Site,$103.63,Dec,Sat,0 days 01:43:00,103.63,Sat

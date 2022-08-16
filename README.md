@@ -80,7 +80,9 @@ The remaining columns are:
 
 Columns: Month, Day of the week, Duration, and money_regex were produced with the knowledge we learned from the modules in Jupyter Notebook.
 
-## Team Roles 
+## Team Roles (in our case #team of three)
+![](https://user-images.githubusercontent.com/101672943/184782005-7eb146a1-a494-4891-98c1-680971e72bad.png)
+
 * Square
 * Triangle 
 * Circle

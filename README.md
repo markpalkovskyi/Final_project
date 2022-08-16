@@ -1,6 +1,6 @@
 # Uber Data Analysis
 UC Davis Data Analytics Bootcamp Final Project
-
+![](images/dataset-cover.jpeg)
 ## Presentation 
 link to the Google Slides & Tableau
 
@@ -31,6 +31,7 @@ At first the dataset were contains only columns below:
 * Stop
 * Miles
 * Purpose
+![](https://user-images.githubusercontent.com/101672943/184781586-aacfd40a-d975-4afc-a7f2-07e0ec2bd5f4.png)
 
 ## Description of the analysis phase of the project
 Final dataset encompassed  16 columns 571 rows 
@@ -51,7 +52,8 @@ The remaining columns are:
 * Day of the week
 * Duration
 * money - regex
- 
+![](https://user-images.githubusercontent.com/101672943/184781603-4beb716d-05ca-4438-82f2-8f7d34102eaa.png)
+
 
 ## Technologies Used
 ### Source Control
@@ -72,7 +74,10 @@ The remaining columns are:
 ## Encountered Issues/Solutions
 * Before coding with data, salary column were added manually to excel file as: Miles multiply by $2.15 the reason for that because in 2016 NY Uber drivers got paid $2.15 per mile.
 * Longitude and Latitude for Start and Stop locations were also added manually with Googleslide extension called "Geocoding with Awesome Table"
-!images
+
+![](https://user-images.githubusercontent.com/101672943/184781711-4fd190d9-5700-4917-9485-1f756dc0fc00.png) ![](https://user-images.githubusercontent.com/101672943/184781766-1e5ff80e-c676-44bd-a1c7-1e08d31961e8.png)
+
+
 Columns: Month, Day of the week, Duration, and money_regex were produced with the knowledge we learned from the modules in Jupyter Notebook.
 
 ## Team Roles 

@@ -96,7 +96,7 @@ https://public.tableau.com/app/profile/harprit2887/viz/Uber_Ride_2016Dashboard/D
 
 [Uber_Ride_2016.pptx](https://github.com/markpalkovskyi/Final_project/files/9306681/Uber_Ride_2016.pptx)
 
-New Tableau - https://public.tableau.com/app/profile/mark3073
+New Tableau - [https://public.tableau.com/app/profile/mark3073](https://public.tableau.com/app/profile/mark3073/viz/Uber_Ride_2016/Dashboard2)
 
 # Analysis Result:
 can be a finish part of the readme file. 

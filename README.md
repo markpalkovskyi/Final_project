@@ -86,21 +86,89 @@ Columns: Month, Day of the week, Duration, and money_regex were produced with th
 ## Team Roles (team of three)
 ![](https://user-images.githubusercontent.com/101672943/184782005-7eb146a1-a494-4891-98c1-680971e72bad.png)
 
-* Square
-* Triangle 
-* Circle
-* X
+Segment 1
+
+[]Square (Mark)
+* setting up the repository
+* responsible for branches
+
+()Circle (Michael)
+* in charge of the mockup database
+* SQL-based database
+
+/\Triangle
+* creating a simple machine learning model
+* help team understand how a machine learning model will fit into the project
+
+X (Harprit)
+* responsible for how will the dashboard be built?
+* which technology is being used where
+
+Segment 2
+
+[]Square 
+* focus on the machine learning model
+* continue to refine, train, and test the model
+* Make sure to document how it ties into the project
+
+/\Triangle (Mark)
+* upscaling the project's database
+
+() Circle (Michael)
+* continue to refine the analysis
+* generates images to use in the presentation and with the dashboard
+
+X (Harprit)
+* focus on the team's dashboard that will be used to display your data findings
 description for each segment (who did what) 
 
+Segment 3
+
+[]Square (Mark)
+* Finish up peer reviews and check code
+* Merge in branches that are still open, or close others.
+* Make sure the repository is ready for public viewing
 Update the files
+
+/\Triangle (Harprit)
+* Project topic and reason it was selected
+* Description of your data and where it was sourced
+* Questions you intend to answer with the data
+* Description of the data exploration your team conducted
+
+()Circle (Michael)
+* storyboard
+* final presentation
+
+X 
+* Tester of All Things
+* final round of code testing
+* checks for the weaknesses and loopholes
+
+Segment 4
+
+[]Square (Mark)
+* finalize the README in the project repository
+
+/\Triangle 
+* final touches on the dashboard and presentation
+* Coordinate practices between team members and practice the presentation and dashboard
+
+()Circle (Michael)
+* ensure all applicable PRs are merged in and completed
+
+X
+* assistance with the presentation, dashboard, finishing up with the repository or an extra pair of hands.
+
+
+Final Tableau - [https://public.tableau.com/app/profile/mark3073](https://public.tableau.com/app/profile/mark3073/viz/Uber_Ride_2016/Dashboard2)
+
 https://public.tableau.com/app/profile/harprit2887/viz/Uber_ride_2016/Story1?publish=yes
 
 https://public.tableau.com/app/profile/harprit2887/viz/Uber_Ride_2016Dashboard/Dashboard1?publish=yes
 
 [Uber_Ride_2016.pptx](https://github.com/markpalkovskyi/Final_project/files/9306681/Uber_Ride_2016.pptx)
 
-New Tableau - [https://public.tableau.com/app/profile/mark3073](https://public.tableau.com/app/profile/mark3073/viz/Uber_Ride_2016/Dashboard2)
 
-# Analysis Result:
-can be a finish part of the readme file. 
+
 

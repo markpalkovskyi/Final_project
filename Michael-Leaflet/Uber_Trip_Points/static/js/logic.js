@@ -13,10 +13,10 @@ console.log("working"); // The console.log() function with the phrase "working" 
           with the given string 'mapid'.
       (2) 'mapid' willl reference the 'id' tag in the <div> element on the index.html file.
       (3) The setView() method sets the view of the map with a geographical center
-          (where the first coordinate is latitude (40.7)
-          and the second coordinate is longitutde (-94.5)).
+          (where the first coordinate is latitude (39.5)
+          and the second coordinate is longitutde (-98.5)).
           Also, the zoom level is set to "4" (on a scale of 0-18). */
-let map = L.map('mapid').setView([40.7, -94.5], 4);
+let map = L.map('mapid').setView([39.5, -98.5], 3);
 
     /* For future reference: an alternative to the setview() method = modify each attribute in the map object using curly braces notation.
 
@@ -45,16 +45,27 @@ cities.forEach(function(city) {
 
 /*________________________________________________________________________________________________________________________________________________________*/
 
+/*
+// Loop through the cities array and create one marker for each city.
+cityData.forEach(function(city) {
+    console.log(city)
+    // L.marker(city.location)<--prior code, replaced L.marker with L.circleMarker below:
+    L.circleMarker(city.location, {
+        radius: city.population/100000 // Assign the "radius" key to the population by using city.population
+    })
+    // Bind a popup to the marker; format the population with a thousands separator):
+    .bindPopup("<h2>" + city.city + ", " + city.state + "</h2> <hr> <h3>Population " + city.population.toLocaleString() + "</h3>")
+    .addTo(map);
+});
+*/
+
 // Loop through the cities array and create one marker for each city.
 cityData.forEach(function(city) {
     console.log(city)
 
-    L.circleMarker(city.location, {
-        radius: city.population/100000 // Assign the "radius" key to the population by using city.population
-    })
-    
-    // Bind a popup to the marker; format the population with a thousands separator:
-    .bindPopup("<h2>" + city.city + ", " + city.state + "</h2> <hr> <h3>Population " + city.population.toLocaleString() + "</h3>")
+    L.circleMarker(city.location)
+    // Bind a popup to the marker; format the population with a thousands separator):
+    .bindPopup("<h2>" + city.city + "</h2>")
     .addTo(map);
 });
 

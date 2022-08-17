@@ -11,7 +11,7 @@ Tableau - [https://public.tableau.com/app/profile/mark3073](https://public.table
 ## Topic - Uber Analysis
 Our group decided to work and analyze an Uber Driver Data. The Dataset emcompasses of different trip purposes all over the world in 2016. 
 
-## Discription
+## Description
 For our analysis we've decided to to detemine what places & purpose were the most popular to visit, how many miles has been driven from Start to Stop locations, how much money the driver made each trip and in total for each month or in general. 
 The dataset was obtained from Kaggle.com https://www.kaggle.com/datasets/zusmani/uberdrives
 

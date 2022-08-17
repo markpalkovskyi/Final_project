@@ -2,7 +2,11 @@
 UC Davis Data Analytics Bootcamp Final Project
 ![](images/dataset-cover.jpeg)
 ## Presentation 
-link to the Google Slides & Tableau
+Links:
+
+Google Slides 
+
+Tableau - [https://public.tableau.com/app/profile/mark3073](https://public.tableau.com/app/profile/mark3073/viz/Uber_Ride_2016/Dashboard2)
 
 ## Topic - Uber Analysis
 Our group decided to work and analyze an Uber Driver Data. The Dataset emcompasses of different trip purposes all over the world in 2016. 
@@ -16,8 +20,7 @@ The dataset was obtained from Kaggle.com https://www.kaggle.com/datasets/zusmani
 * How much the most money the driver made in day, week, month, and in total?
 * What is the most popular place where people order Uber the most?
 * How many miles the driver drove according to the duration column? Where the most and how long it took?
-*
-To answer the questions above we've decided to use Tableau for graph visualization.
+
 
 
 ## Description of the data exploration phase of the project
@@ -62,7 +65,7 @@ The remaining columns are:
  Excel will be used as an overview of the data, the first step of our analyzing phase, and also in the conclusive context of our analysis. Pandas will be used to clean our data and perform the analysis by our team. Jupyter Notebook and Python plays a very important role in our analysis, because the further work will conduct our analysis and coding to obtain our goal.
 ### Dashboard
  The final visualization and presentation will integrate by Tableau public for for a fully functioning interactive understanding for the analysis with interactive story and dashboard. In conclusion, Google Slides will be used for presentation in class.
-### Additional helpful tools were used:
+### Additional tools were used:
  - Aws
  - PostgreSQL
  - pgAdmin
@@ -80,7 +83,7 @@ The remaining columns are:
 
 Columns: Month, Day of the week, Duration, and money_regex were produced with the knowledge we learned from the modules in Jupyter Notebook.
 
-## Team Roles (in our case #team of three)
+## Team Roles (team of three)
 ![](https://user-images.githubusercontent.com/101672943/184782005-7eb146a1-a494-4891-98c1-680971e72bad.png)
 
 * Square

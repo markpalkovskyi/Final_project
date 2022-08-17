@@ -70,6 +70,18 @@ The remaining columns are:
  - PostgreSQL
  - pgAdmin
 
+ ## Dashboard
+ 1. Storyboard for Dashboard
+  * The location of the starting point, where the driver left from, and how many times the driver dropped off passengers around the same location        according to our data for the whole year?
+  * Purpose of destination, where people had to go the most. Was it more personal or bussiness route?
+  * How much did the driver made each month and what was the most profitable month of the year of 2016?
+  * What is the total trips did the driver made for the whole year?
+
+![](https://user-images.githubusercontent.com/101672943/185249302-63e812ab-2f8a-4dfb-a633-f7ac9173bd01.png)
+![](https://user-images.githubusercontent.com/101672943/185249553-123e6a6f-268c-47d6-91ba-42aa9c4dc67b.png)
+ 
+ 2. The main tool used to create the final dashboard for the presentation will be Tableau. Within Tableau, we will use interactive bar charts, pie charts, maps, and tables.
+ 3. With our Tableau link, viewers can visit the URL and inspect on their own about specific graph, that way visitors can learn more about our Uber Data analysis.
 
  ## Machine Learning Model ?
 

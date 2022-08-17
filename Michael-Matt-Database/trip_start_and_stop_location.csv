@@ -1,0 +1,572 @@
+﻿trip_no,start_location,stop_location
+0,Fort Pierce,Fort Pierce
+1,Fort Pierce,Fort Pierce
+2,Fort Pierce,West Palm Beach
+3,West Palm Beach,West Palm Beach
+4,West Palm Beach,Palm Beach
+5,Cary,Cary
+6,Cary,Morrisville
+7,Jamaica,New York
+8,New York,Queens
+9,Elmhurst,New York
+10,Midtown,East Harlem
+11,East Harlem,NoMad
+12,Flatiron District,Midtown
+13,Midtown,Midtown East
+14,Midtown East,Midtown
+15,Midtown,Hudson Square
+16,Hudson Square,Lower Manhattan
+17,Lower Manhattan,Hudson Square
+18,Hudson Square,Hell's Kitchen
+19,Hell's Kitchen,Midtown
+20,New York,Queens County
+21,Downtown,Gulfton
+22,Gulfton,Downtown
+23,Houston,Houston
+24,Eagan Park,Jamestown Court
+25,Morrisville,Cary
+26,Cary,Durham
+27,Durham,Cary
+28,Cary,Cary
+29,Farmington Woods,Whitebridge
+30,Lake Wellingborough,Whitebridge
+31,Cary,Raleigh
+32,Fayetteville Street,Umstead
+33,Raleigh,Cary
+34,Cary,Cary
+35,Cary,Cary
+36,Cary,Cary
+37,Whitebridge,Hazelwood
+38,Hazelwood,Whitebridge
+39,Whitebridge,Westpark Place
+40,Cary,Cary
+41,Cary,Cary
+42,Cary,Cary
+43,Cary,Raleigh
+44,Fairmont,Meredith Townes
+45,Raleigh,Raleigh
+46,Raleigh,Cary
+47,Cary,Raleigh
+48,Meredith Townes,Leesville Hollow
+49,Raleigh,Cary
+50,Cary,Cary
+51,Cary,Cary
+52,Cary,Durham
+53,Durham,Cary
+54,Cary,Apex
+55,Apex,Cary
+56,Cary,Apex
+57,Apex,Cary
+58,Cary,Chapel Hill
+59,Chapel Hill,Cary
+60,Northwoods,Whitebridge
+61,Whitebridge,Williamsburg Manor
+62,Cary,Cary
+63,Cary,Cary
+64,Cary,Morrisville
+65,Morrisville,Cary
+66,Cary,Cary
+67,Cary,Cary
+68,Cary,Cary
+69,Whitebridge,Macgregor Downs
+70,Cary,Cary
+71,Cary,Durham
+72,Durham,Cary
+73,Cary,Raleigh
+74,Raleigh,Cary
+75,Edgehill Farms,Whitebridge
+76,Cary,Apex
+77,Apex,Cary
+78,Cary,Morrisville
+79,Morrisville,Cary
+80,Whitebridge,Edgehill Farms
+81,Edgehill Farms,Whitebridge
+82,Morrisville,Cary
+83,Cary,Raleigh
+84,Eastgate,Walnut Terrace
+85,Raleigh,Morrisville
+86,Morrisville,Cary
+87,Cary,Durham
+88,Durham,Morrisville
+89,Morrisville,Raleigh
+90,Raleigh,Cary
+91,Cary,Morrisville
+92,Morrisville,Cary
+93,Cary,Morrisville
+94,East Elmhurst,New York
+95,Midtown,Midtown West
+96,New York,Long Island City
+97,Long Island City,Jamaica
+98,Colombo,Colombo
+99,Colombo,Nugegoda
+100,Colombo,Colombo
+101,Colombo,Katunayaka
+102,Katunayaka,Katunayaka
+103,R?walpindi,R?walpindi
+104,Islamabad,Islamabad
+105,Islamabad,Noorpur Shahan
+106,Morrisville,Cary
+107,Preston,Whitebridge
+108,Whitebridge,Heritage Pines
+109,Heritage Pines,Whitebridge
+110,Whitebridge,Tanglewood
+111,Tanglewood,Whitebridge
+112,Cary,Durham
+113,Durham,Cary
+114,Whitebridge,Waverly Place
+115,Waverly Place,Whitebridge
+116,Cary,Apex
+117,Apex,Cary
+118,Hazelwood,Whitebridge
+119,Whitebridge,Wayne Ridge
+120,Wayne Ridge,Whitebridge
+121,Westpark Place,Whitebridge
+122,Whitebridge,Northwoods
+123,Cary,Raleigh
+124,Raleigh,Cary
+125,Cary,Durham
+126,Durham,Cary
+127,Cary,Durham
+128,Durham,Cary
+129,Cary,Raleigh
+130,Raleigh,Raleigh
+131,Fayetteville Street,Depot Historic District
+132,Raleigh,Cary
+133,Cary,Morrisville
+134,Morrisville,Cary
+135,Cary,Morrisville
+136,Whitebridge,Wayne Ridge
+137,Cary,Morrisville
+138,Morrisville,Cary
+139,Whitebridge,Edgehill Farms
+140,Cary,Raleigh
+141,Fayetteville Street,Meredith Townes
+142,Meredith Townes,Leesville Hollow
+143,Raleigh,Cary
+144,Whitebridge,Waverly Place
+145,Waverly Place,Whitebridge
+146,Cary,Morrisville
+147,East Austin,West University
+148,The Drag,Congress Ave District
+149,The Drag,Convention Center District
+150,South Congress,North Austin
+151,Georgian Acres,The Drag
+152,The Drag,North Austin
+153,North Austin,Coxville
+154,The Drag,South Congress
+155,The Drag,Convention Center District
+156,Downtown,The Drag
+157,The Drag,Congress Ave District
+158,West University,Congress Ave District
+159,Austin,Katy
+160,Katy,Houston
+161,Midtown,Alief
+162,Midtown,Midtown
+163,Midtown,Midtown
+164,Midtown,Sharpstown
+165,Sharpstown,Sharpstown
+166,Sharpstown,Midtown
+167,Midtown,Sharpstown
+168,Houston,Sugar Land
+169,Sugar Land,Houston
+170,Houston,Galveston
+171,Galveston,Port Bolivar
+172,Port Bolivar,Port Bolivar
+173,Port Bolivar,Galveston
+174,Galveston,Houston
+175,Midtown,Washington Avenue
+176,Washington Avenue,Midtown
+177,Briar Meadow,Midtown
+178,Downtown,Midtown
+179,Sharpstown,Midtown
+180,Midtown,Greater Greenspoint
+181,Cary,Latta
+182,Latta,Jacksonville
+183,Jacksonville,Kissimmee
+184,Lake Reams,Lake Reams
+185,Orlando,Kissimmee
+186,Kissimmee,Orlando
+187,Orlando,Kissimmee
+188,Kissimmee,Orlando
+189,Orlando,Kissimmee
+190,Kissimmee,Kissimmee
+191,Kissimmee,Orlando
+192,Orlando,Kissimmee
+193,Kissimmee,Daytona Beach
+194,Daytona Beach,Jacksonville
+195,Jacksonville,Ridgeland
+196,Ridgeland,Florence
+197,Florence,Cary
+198,Whitebridge,Wayne Ridge
+199,Wayne Ridge,Whitebridge
+200,Cary,Morrisville
+201,Morrisville,Cary
+202,Cary,Durham
+203,Durham,Cary
+204,Westpark Place,Whitebridge
+205,Cary,Raleigh
+206,Raleigh,Cary
+207,Whitebridge,Edgehill Farms
+208,Cary,Raleigh
+209,Meredith,Cedar Hill
+210,Raleigh,Morrisville
+211,Morrisville,Cary
+212,Cary,Holly Springs
+213,Holly Springs,Cary
+214,Cary,Raleigh
+215,Meredith Townes,Harden Place
+216,Raleigh,Cary
+217,Cary,Morrisville
+218,Morrisville,Cary
+219,Whitebridge,Wayne Ridge
+220,Wayne Ridge,Whitebridge
+221,Cary,Raleigh
+222,Raleigh,Cary
+223,Cary,Durham
+224,Durham,Cary
+225,Whitebridge,Tanglewood
+226,Tanglewood,Whitebridge
+227,Cary,Morrisville
+228,Chessington,Chessington
+229,Morrisville,Cary
+230,Whitebridge,Burtrose
+231,Burtrose,Whitebridge
+232,Cary,Raleigh
+233,Raleigh,Cary
+234,Morrisville,Cary
+235,Cary,Durham
+236,Durham,Cary
+237,Cary,Durham
+238,Durham,Cary
+239,Whitebridge,Waverly Place
+240,Whitebridge,Westpark Place
+241,Whitebridge,Tanglewood
+242,Tanglewood,Parkway
+243,Parkway,Whitebridge
+244,Whitebridge,Westpark Place
+245,Westpark Place,Whitebridge
+246,Morrisville,Cary
+247,Cary,Morrisville
+248,Mcvan,Capitol One
+249,Capitol One,University District
+250,University District,Capitol One
+251,Seattle,Redmond
+252,Redmond,Bellevue
+253,Bellevue,Seattle
+254,Capitol One,Mcvan
+255,Chapel Hill,Morrisville
+256,Morrisville,Cary
+257,Cary,Morrisville
+258,San Francisco,Palo Alto
+259,Palo Alto,Sunnyvale
+260,Sunnyvale,Newark
+261,Newark,Menlo Park
+262,Menlo Park,Newark
+263,Newark,San Francisco
+264,Morrisville,Cary
+265,Cary,Morrisville
+266,Morrisville,Cary
+267,Whitebridge,Preston
+268,Preston,Westpark Place
+269,Westpark Place,Whitebridge
+270,Cary,Morrisville
+271,Morrisville,Raleigh
+272,Old City,Parkway Museums
+273,Old City,Hog Island
+274,Morrisville,Cary
+275,Cary,Morrisville
+276,Morrisville,Cary
+277,Whitebridge,Savon Height
+278,Savon Height,Whitebridge
+279,Whitebridge,Kildaire Farms
+280,Kilarney Woods,Kildaire Farms
+281,Kilarney Woods,Whitebridge
+282,Cary,Morrisville
+283,Morrisville,Cary
+284,Cary,Raleigh
+285,Raleigh,Cary
+286,Cary,Morrisville
+287,Morrisville,Cary
+288,Cary,Durham
+289,Durham,Cary
+290,Cary,Morrisville
+291,Townes at Everett Crossing,Chessington
+292,Morrisville,Cary
+293,Huntington Woods,Weston
+294,Morrisville,Cary
+295,Whitebridge,Savon Height
+296,Cary,Morrisville
+297,Weston,Weston
+298,Morrisville,Cary
+299,Cary,Durham
+300,Durham,Cary
+301,Whitebridge,Hazelwood
+302,Hazelwood,Whitebridge
+303,Cary,Apex
+304,Apex,Cary
+305,Cary,Durham
+306,Durham,Cary
+307,Cary,Durham
+308,Durham,Cary
+309,Cary,Morrisville
+310,Jamaica,New York
+311,Seaport,Gramercy-Flatiron
+312,Medical Centre,Tudor City
+313,Rose Hill,Soho
+314,Soho,Tribeca
+315,Tribeca,Financial District
+316,Financial District,Kips Bay
+317,New York,Jamaica
+318,Cary,Durham
+319,Durham,Cary
+320,Cary,Morrisville
+321,Morrisville,Cary
+322,Cary,Durham
+323,Durham,Cary
+324,Cary,Morrisville
+325,Morrisville,Cary
+326,Parkway,Whitebridge
+327,Cary,Morrisville
+328,Oakland,Emeryville
+329,Emeryville,Berkeley
+330,Berkeley,Oakland
+331,San Francisco,Emeryville
+332,Emeryville,Oakland
+333,Downtown,Bay Farm Island
+334,Kenner,New Orleans
+335,CBD,Lower Garden District
+336,Lower Garden District,Lakeview
+337,Storyville,Faubourg Marigny
+338,Raleigh,Cary
+339,Whitebridge,Waverly Place
+340,Waverly Place,Macgregor Downs
+341,Cary,Raleigh
+342,Raleigh,Morrisville
+343,Morrisville,Cary
+344,Cary,Morrisville
+345,New Orleans,Chalmette
+346,Chalmette,Arabi
+347,Arabi,Metairie
+348,Pontchartrain Shores,Pontchartrain Shores
+349,Metairie,New Orleans
+350,New Orleans,Kenner
+351,Morrisville,Cary
+352,Cary,Durham
+353,Durham,Cary
+354,Durham,Cary
+355,Cary,Durham
+356,Durham,Cary
+357,Cary,Durham
+358,Durham,Cary
+359,Cary,Raleigh
+360,Raleigh,Cary
+361,Cary,Durham
+362,Durham,Cary
+363,Cary,Durham
+364,Durham,Cary
+365,Cary,Morrisville
+366,Morrisville,Cary
+367,Cary,Durham
+368,Durham,Cary
+369,Whitebridge,Summerwinds
+370,Summerwinds,Whitebridge
+371,Cary,Durham
+372,Parkwood,Parkwood
+373,Durham,Cary
+374,Whitebridge,Whitebridge
+375,Morrisville,Cary
+376,Cary,Durham
+377,Cary,Morrisville
+378,Morrisville,Cary
+379,Cary,Morrisville
+380,Morrisville,Morrisville
+381,Banner Elk,Banner Elk
+382,Banner Elk,Boone
+383,Boone,Cary
+384,Cary,Morrisville
+385,Morrisville,Cary
+386,Northwoods,Preston
+387,Preston,Whitebridge
+388,Cary,Apex
+389,Apex,Cary
+390,Cary,Morrisville
+391,Hazelwood,Weston
+392,Morrisville,Cary
+393,Whitebridge,Stonewater
+394,Stonewater,Lexington Park at Amberly
+395,Lexington Park at Amberly,Whitebridge
+396,Whitebridge,Chessington
+397,Durham,Cary
+398,Cary,Morrisville
+399,Cary,Durham
+400,Durham,Cary
+401,Cary,Morrisville
+402,Morrisville,Cary
+403,Westpark Place,Whitebridge
+404,Cary,Morrisville
+405,Edgehill Farms,Whitebridge
+406,Morrisville,Cary
+407,Edgehill Farms,Whitebridge
+408,Morrisville,Cary
+409,Cary,Morrisville
+410,Cary,Durham
+411,Whitebridge,Parkway
+412,Morrisville,Cary
+413,Cary,Morrisville
+414,Cary,Morrisville
+415,Morrisville,Cary
+416,Whitebridge,Savon Height
+417,Parkway,Whitebridge
+418,Whitebridge,Parkway
+419,Cary,Morrisville
+420,Cary,Durham
+421,Durham,Cary
+422,Cary,Winston Salem
+423,Winston Salem,Asheville
+424,Asheville,Topton
+425,Topton,Hayesville
+426,Savon Height,Whitebridge
+427,Whitebridge,Whitebridge
+428,Cary,Morrisville
+429,Cary,Morrisville
+430,Morrisville,Cary
+431,Cary,Morrisville
+432,Renaissance,Agnew
+433,Santa Clara,Berkeley
+434,Berkeley,San Francisco
+435,San Francisco,Berkeley
+436,Berkeley,San Francisco
+437,San Francisco,Berkeley
+438,Ingleside,Potrero Flats
+439,San Francisco,Oakland
+440,Berkeley,San Francisco
+441,San Francisco,Oakland
+442,Oakland,Berkeley
+443,Berkeley,Menlo Park
+444,Menlo Park,Berkeley
+445,West Berkeley,South
+446,Emeryville,Berkeley
+447,West Berkeley,Southside
+448,Berkeley,Mountain View
+449,Mountain View,Berkeley
+450,Emeryville,Berkeley
+451,Oakland,San Francisco
+452,San Francisco,Berkeley
+453,Berkeley,El Cerrito
+454,El Cerrito,Berkeley
+455,Berkeley,Oakland
+456,Cary,Morrisville
+457,Morrisville,Cary
+458,Krendle Woods,Whitebridge
+459,Cary,Durham
+460,Durham,Cary
+461,Cary,Apex
+462,Apex,Cary
+463,Cary,Cary
+464,Cary,Cary
+465,Cary,Cary
+466,Cary,Cary
+467,Cary,Cary
+468,Cary,Cary
+469,Morrisville,Cary
+470,Cary,Cary
+471,Cary,Cary
+472,Cary,Cary
+473,Cary,Morrisville
+474,Morrisville,Cary
+475,Cary,Cary
+476,Cary,Durham
+477,Durham,Cary
+478,Cary,Apex
+479,Apex,Holly Springs
+480,Holly Springs,Cary
+481,Cary,Cary
+482,Cary,Morrisville
+483,Cary,Raleigh
+484,Raleigh,Morrisville
+485,Cary,Cary
+486,Cary,Cary
+487,Cary,Morrisville
+488,Morrisville,Cary
+489,Cary,Apex
+490,Apex,Cary
+491,Cary,Morrisville
+492,Morrisville,Cary
+493,Cary,Wake Co.
+494,Morrisville,Cary
+495,Cary,Morrisville
+496,Morrisville,Cary
+497,Cary,Cary
+498,Cary,Cary
+499,Cary,Cary
+500,Cary,Cary
+501,Cary,Cary
+502,Cary,Cary
+503,Cary,Cary
+504,Cary,Cary
+505,Cary,Cary
+506,Cary,Apex
+507,Apex,Cary
+508,Cary,Cary
+509,Cary,Cary
+510,Cary,Fuquay-Varina
+511,Fuquay-Varina,Cary
+512,Cary,Morrisville
+513,Morrisville,Cary
+514,Cary,Morrisville
+515,Morrisville,Cary
+516,Cary,Cary
+517,Cary,Cary
+518,Cary,Apex
+519,Apex,Cary
+520,Cary,Morrisville
+521,Morrisville,Cary
+522,Cary,Cary
+523,Cary,Cary
+524,Cary,Morrisville
+525,Morrisville,Cary
+526,Cary,Morrisville
+527,Islamabad,Rawalpindi
+528,Rawalpindi,Islamabad
+529,Rawalpindi,Rawalpindi
+530,Islamabad,Islamabad
+531,Islamabad,Islamabad
+532,Islamabad,Islamabad
+533,Lahore,Lahore
+534,Lahore,Lahore
+535,Lahore,Lahore
+536,Lahore,Lahore
+537,Lahore,Lahore
+538,Lahore,Lahore
+539,Lahore,Lahore
+540,Lahore,Lahore
+541,Lahore,Lahore
+542,Lahore,Lahore
+543,Lahore,Lahore
+544,Lahore,Lahore
+545,Lahore,Lahore
+546,Lahore,Lahore
+547,Lahore,Lahore
+548,Lahore,Lahore
+549,Karchi,Karchi
+550,Karchi,Karchi
+551,Karchi,Karchi
+552,Karchi,Karchi
+553,Karchi,Karchi
+554,Karchi,Karchi
+555,Karchi,Karchi
+556,Karchi,Karchi
+557,Karchi,Karchi
+558,Karchi,Karchi
+559,Karchi,Karchi
+560,Karchi,Karchi
+561,Karchi,Karchi
+562,Karchi,Karchi
+563,Karchi,Karchi
+564,Karchi,Karchi
+565,Karchi,Karchi
+566,Karchi,Karchi
+567,Karchi,Karchi
+568,Karchi,Karchi
+569,Katunayake,Gampaha
+570,Gampaha,Ilukwatta

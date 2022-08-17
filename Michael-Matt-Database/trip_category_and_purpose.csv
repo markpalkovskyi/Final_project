@@ -1,0 +1,572 @@
+﻿trip_no,category,purpose
+0,Business,Errand/Supplies
+1,Business,Meeting
+2,Business,Customer Visit
+3,Business,Meal/Entertain
+4,Business,Meeting
+5,Business,Meeting
+6,Business,Meeting
+7,Business,Customer Visit
+8,Business,Meeting
+9,Business,Meeting
+10,Business,Meeting
+11,Business,Temporary Site
+12,Business,Errand/Supplies
+13,Business,Meal/Entertain
+14,Business,Meal/Entertain
+15,Business,Meal/Entertain
+16,Business,Meal/Entertain
+17,Business,Errand/Supplies
+18,Business,Customer Visit
+19,Business,Errand/Supplies
+20,Business,Meeting
+21,Business,Meeting
+22,Business,Meeting
+23,Business,Customer Visit
+24,Business,Errand/Supplies
+25,Business,Errand/Supplies
+26,Business,Meal/Entertain
+27,Business,Meal/Entertain
+28,Business,Meal/Entertain
+29,Business,Meal/Entertain
+30,Business,Temporary Site
+31,Business,Meeting
+32,Business,Meeting
+33,Business,Customer Visit
+34,Business,Errand/Supplies
+35,Business,Meal/Entertain
+36,Business,Meal/Entertain
+37,Business,Meal/Entertain
+38,Business,Errand/Supplies
+39,Business,Errand/Supplies
+40,Business,Errand/Supplies
+41,Business,Errand/Supplies
+42,Business,Meeting
+43,Business,Customer Visit
+44,Business,Customer Visit
+45,Business,Customer Visit
+46,Business,Customer Visit
+47,Business,Temporary Site
+48,Business,Meeting
+49,Business,Meeting
+50,Business,Customer Visit
+51,Business,Meeting
+52,Business,Meeting
+53,Business,Meeting
+54,Business,Errand/Supplies
+55,Business,Meal/Entertain
+56,Business,Errand/Supplies
+57,Business,Customer Visit
+58,Business,Customer Visit
+59,Business,Customer Visit
+60,Business,Meal/Entertain
+61,Business,Meeting
+62,Business,Errand/Supplies
+63,Business,Errand/Supplies
+64,Business,Errand/Supplies
+65,Business,Meal/Entertain
+66,Business,Meal/Entertain
+67,Business,Meal/Entertain
+68,Business,Meal/Entertain
+69,Business,Meeting
+70,Business,Meeting
+71,Business,Meeting
+72,Business,Meeting
+73,Business,Between Offices
+74,Business,Errand/Supplies
+75,Business,Meal/Entertain
+76,Business,Errand/Supplies
+77,Business,Customer Visit
+78,Business,Temporary Site
+79,Business,Meeting
+80,Business,Meal/Entertain
+81,Business,Meal/Entertain
+82,Business,Meal/Entertain
+83,Business,Meal/Entertain
+84,Business,Meal/Entertain
+85,Business,Temporary Site
+86,Business,Temporary Site
+87,Business,Temporary Site
+88,Business,Temporary Site
+89,Business,Customer Visit
+90,Business,Meeting
+91,Business,Meeting
+92,Business,Customer Visit
+93,Business,Meeting
+94,Business,Meeting
+95,Business,Meeting
+96,Business,Meeting
+97,Business,Meeting
+98,Business,Temporary Site
+99,Business,Meal/Entertain
+100,Business,Meal/Entertain
+101,Business,Temporary Site
+102,Business,Errand/Supplies
+103,Business,Meeting
+104,Business,Errand/Supplies
+105,Business,Temporary Site
+106,Business,Customer Visit
+107,Business,Errand/Supplies
+108,Business,Errand/Supplies
+109,Business,Errand/Supplies
+110,Business,Meal/Entertain
+111,Business,Meal/Entertain
+112,Business,Meeting
+113,Business,Meeting
+114,Business,Meeting
+115,Business,Meeting
+116,Business,Meeting
+117,Business,Meeting
+118,Business,Customer Visit
+119,Business,Meal/Entertain
+120,Business,Meeting
+121,Business,Errand/Supplies
+122,Business,Meal/Entertain
+123,Business,Customer Visit
+124,Business,Meeting
+125,Business,Meeting
+126,Business,Customer Visit
+127,Business,Meeting
+128,Business,Meeting
+129,Business,Customer Visit
+130,Business,Meal/Entertain
+131,Business,Errand/Supplies
+132,Business,Meeting
+133,Business,Temporary Site
+134,Business,Meal/Entertain
+135,Business,Meal/Entertain
+136,Business,Meal/Entertain
+137,Business,Meal/Entertain
+138,Business,Meal/Entertain
+139,Business,Errand/Supplies
+140,Business,Customer Visit
+141,Business,Customer Visit
+142,Business,Meeting
+143,Business,Between Offices
+144,Business,Between Offices
+145,Business,Meal/Entertain
+146,Business,Meeting
+147,Business,Meeting
+148,Business,Meal/Entertain
+149,Business,Meal/Entertain
+150,Business,Meal/Entertain
+151,Business,Meal/Entertain
+152,Business,Meal/Entertain
+153,Business,Meal/Entertain
+154,Business,Errand/Supplies
+155,Business,Meal/Entertain
+156,Business,Meal/Entertain
+157,Business,Meal/Entertain
+158,Business,Meal/Entertain
+159,Business,Customer Visit
+160,Business,Meeting
+161,Business,Meal/Entertain
+162,Business,Meal/Entertain
+163,Business,Meal/Entertain
+164,Business,Meeting
+165,Business,Errand/Supplies
+166,Business,Customer Visit
+167,Business,Meal/Entertain
+168,Business,Customer Visit
+169,Business,Customer Visit
+170,Business,Meal/Entertain
+171,Business,Meal/Entertain
+172,Business,Errand/Supplies
+173,Business,Meeting
+174,Business,Customer Visit
+175,Business,Meeting
+176,Business,Meeting
+177,Business,Customer Visit
+178,Business,Meal/Entertain
+179,Business,Meal/Entertain
+180,Business,Meal/Entertain
+181,Business,Customer Visit
+182,Business,Customer Visit
+183,Business,Meeting
+184,Business,Errand/Supplies
+185,Business,Meal/Entertain
+186,Business,Customer Visit
+187,Business,Meal/Entertain
+188,Business,Temporary Site
+189,Business,Meal/Entertain
+190,Business,Meeting
+191,Business,Customer Visit
+192,Business,Meeting
+193,Business,Customer Visit
+194,Business,Customer Visit
+195,Business,Customer Visit
+196,Business,Meeting
+197,Business,Meeting
+198,Business,Meal/Entertain
+199,Business,Meal/Entertain
+200,Business,Meal/Entertain
+201,Business,Errand/Supplies
+202,Business,Meeting
+203,Business,Meal/Entertain
+204,Business,Errand/Supplies
+205,Business,Meeting
+206,Business,Meeting
+207,Business,Errand/Supplies
+208,Business,Meeting
+209,Business,Customer Visit
+210,Business,Meeting
+211,Business,Meal/Entertain
+212,Business,Temporary Site
+213,Business,Temporary Site
+214,Business,Temporary Site
+215,Business,Errand/Supplies
+216,Business,Meeting
+217,Business,Errand/Supplies
+218,Business,Meal/Entertain
+219,Business,Meal/Entertain
+220,Business,Meal/Entertain
+221,Business,Meeting
+222,Business,Meeting
+223,Business,Meeting
+224,Business,Meeting
+225,Business,Meal/Entertain
+226,Business,Meal/Entertain
+227,Business,Errand/Supplies
+228,Business,Errand/Supplies
+229,Business,Between Offices
+230,Business,Between Offices
+231,Business,Between Offices
+232,Business,Customer Visit
+233,Business,Customer Visit
+234,Business,Customer Visit
+235,Business,Meeting
+236,Business,Meeting
+237,Business,Customer Visit
+238,Business,Meeting
+239,Business,Meal/Entertain
+240,Business,Meal/Entertain
+241,Business,Between Offices
+242,Business,Meeting
+243,Business,Errand/Supplies
+244,Business,Errand/Supplies
+245,Business,Meal/Entertain
+246,Business,Meal/Entertain
+247,Business,Meal/Entertain
+248,Business,Errand/Supplies
+249,Business,Meal/Entertain
+250,Business,Meal/Entertain
+251,Business,Meal/Entertain
+252,Business,Errand/Supplies
+253,Business,Meeting
+254,Business,Meeting
+255,Business,Meeting
+256,Business,Customer Visit
+257,Business,Customer Visit
+258,Business,Between Offices
+259,Business,Customer Visit
+260,Business,Customer Visit
+261,Business,Customer Visit
+262,Business,Customer Visit
+263,Business,Meeting
+264,Business,Meeting
+265,Business,Meal/Entertain
+266,Business,Meal/Entertain
+267,Business,Errand/Supplies
+268,Business,Errand/Supplies
+269,Business,Errand/Supplies
+270,Business,Customer Visit
+271,Business,Customer Visit
+272,Business,Meal/Entertain
+273,Business,Meeting
+274,Business,Meal/Entertain
+275,Business,Meal/Entertain
+276,Business,Meal/Entertain
+277,Business,Meal/Entertain
+278,Business,Errand/Supplies
+279,Business,Errand/Supplies
+280,Business,Errand/Supplies
+281,Business,Errand/Supplies
+282,Business,Meal/Entertain
+283,Business,Customer Visit
+284,Business,Meeting
+285,Business,Meeting
+286,Business,Customer Visit
+287,Business,Meeting
+288,Business,Meeting
+289,Business,Meeting
+290,Business,Meal/Entertain
+291,Business,Errand/Supplies
+292,Business,Errand/Supplies
+293,Business,Errand/Supplies
+294,Business,Between Offices
+295,Business,Customer Visit
+296,Business,Customer Visit
+297,Business,Meal/Entertain
+298,Business,Meal/Entertain
+299,Business,Meeting
+300,Business,Meeting
+301,Business,Errand/Supplies
+302,Business,Errand/Supplies
+303,Business,Meal/Entertain
+304,Business,Meal/Entertain
+305,Business,Meeting
+306,Business,Meeting
+307,Business,Meeting
+308,Business,Meeting
+309,Business,Meal/Entertain
+310,Business,Errand/Supplies
+311,Business,Meal/Entertain
+312,Business,Errand/Supplies
+313,Business,Meal/Entertain
+314,Business,Errand/Supplies
+315,Business,Errand/Supplies
+316,Business,Errand/Supplies
+317,Business,Meeting
+318,Business,Meeting
+319,Business,Meeting
+320,Business,Errand/Supplies
+321,Business,Meal/Entertain
+322,Business,Meeting
+323,Business,Meeting
+324,Business,Meal/Entertain
+325,Business,Errand/Supplies
+326,Business,Errand/Supplies
+327,Business,Meal/Entertain
+328,Business,Meeting
+329,Business,Meal/Entertain
+330,Business,Meal/Entertain
+331,Business,Meeting
+332,Business,Meeting
+333,Business,Errand/Supplies
+334,Business,Between Offices
+335,Business,Between Offices
+336,Business,Customer Visit
+337,Business,Meal/Entertain
+338,Business,Meal/Entertain
+339,Business,Meal/Entertain
+340,Business,Meal/Entertain
+341,Business,Errand/Supplies
+342,Business,Errand/Supplies
+343,Business,Errand/Supplies
+344,Business,Temporary Site
+345,Business,Between Offices
+346,Business,Errand/Supplies
+347,Business,Meal/Entertain
+348,Business,Meeting
+349,Business,Meeting
+350,Business,Meeting
+351,Business,Customer Visit
+352,Business,Meeting
+353,Business,Meeting
+354,Business,Meeting
+355,Business,Meeting
+356,Business,Meeting
+357,Business,Meeting
+358,Business,Meeting
+359,Business,Meeting
+360,Business,Meeting
+361,Business,Meeting
+362,Business,Meeting
+363,Business,Meeting
+364,Business,Meeting
+365,Business,Errand/Supplies
+366,Business,Errand/Supplies
+367,Business,Meeting
+368,Business,Meeting
+369,Business,Meeting
+370,Business,Temporary Site
+371,Business,Meeting
+372,Business,Errand/Supplies
+373,Business,Meeting
+374,Business,Errand/Supplies
+375,Business,Meal/Entertain
+376,Business,Meeting
+377,Business,Meal/Entertain
+378,Business,Customer Visit
+379,Business,Temporary Site
+380,Business,Errand/Supplies
+381,Business,Errand/Supplies
+382,Personal,Charity ($)
+383,Personal,Commute
+384,Personal,Moving
+385,Personal,Moving
+386,Personal,Moving
+387,Personal,Moving
+388,Business,Meeting
+389,Business,Meal/Entertain
+390,Business,Meal/Entertain
+391,Business,Errand/Supplies
+392,Business,Meal/Entertain
+393,Business,Customer Visit
+394,Business,Meeting
+395,Business,Meal/Entertain
+396,Business,Errand/Supplies
+397,Business,Meeting
+398,Business,Meal/Entertain
+399,Business,Meeting
+400,Business,Meeting
+401,Business,Meal/Entertain
+402,Business,Meal/Entertain
+403,Business,Meal/Entertain
+404,Business,Meeting
+405,Business,Customer Visit
+406,Business,Meal/Entertain
+407,Business,Customer Visit
+408,Business,Customer Visit
+409,Business,Meeting
+410,Business,Meeting
+411,Business,Meeting
+412,Business,Meal/Entertain
+413,Business,Temporary Site
+414,Business,Meal/Entertain
+415,Business,Customer Visit
+416,Business,Meal/Entertain
+417,Business,Errand/Supplies
+418,Business,Meeting
+419,Business,Meeting
+420,Business,Meeting
+421,Business,Meeting
+422,Business,Meeting
+423,Business,Meeting
+424,Business,Meeting
+425,Business,Meeting
+426,Business,Errand/Supplies
+427,Business,Meal/Entertain
+428,Business,Meeting
+429,Business,Meal/Entertain
+430,Business,Customer Visit
+431,Business,Temporary Site
+432,Business,Meeting
+433,Business,Customer Visit
+434,Business,Between Offices
+435,Business,Between Offices
+436,Business,Between Offices
+437,Business,Meeting
+438,Business,Meeting
+439,Business,Customer Visit
+440,Business,Temporary Site
+441,Business,Temporary Site
+442,Business,Meeting
+443,Business,Customer Visit
+444,Business,Customer Visit
+445,Business,Meeting
+446,Business,Errand/Supplies
+447,Business,Meeting
+448,Business,Customer Visit
+449,Business,Customer Visit
+450,Business,Errand/Supplies
+451,Business,Temporary Site
+452,Business,Temporary Site
+453,Business,Temporary Site
+454,Business,Meal/Entertain
+455,Business,Customer Visit
+456,Business,Meal/Entertain
+457,Business,Meal/Entertain
+458,Business,Meeting
+459,Business,Meeting
+460,Business,Meeting
+461,Business,Errand/Supplies
+462,Business,Customer Visit
+463,Business,Between Offices
+464,Business,Customer Visit
+465,Business,Meeting
+466,Business,Errand/Supplies
+467,Business,Meal/Entertain
+468,Business,Meal/Entertain
+469,Business,Errand/Supplies
+470,Business,Meeting
+471,Business,Meeting
+472,Business,Customer Visit
+473,Business,Meal/Entertain
+474,Business,Customer Visit
+475,Business,Meal/Entertain
+476,Business,Meeting
+477,Business,Meeting
+478,Business,Meeting
+479,Business,Meeting
+480,Business,Between Offices
+481,Business,Errand/Supplies
+482,Business,Meal/Entertain
+483,Business,Customer Visit
+484,Business,Temporary Site
+485,Business,Meeting
+486,Business,Errand/Supplies
+487,Business,Meal/Entertain
+488,Business,Customer Visit
+489,Business,Meal/Entertain
+490,Business,Customer Visit
+491,Business,Meal/Entertain
+492,Business,Customer Visit
+493,Business,Errand/Supplies
+494,Business,Customer Visit
+495,Business,Meal/Entertain
+496,Business,Customer Visit
+497,Business,Meal/Entertain
+498,Business,Meeting
+499,Business,Meeting
+500,Business,Customer Visit
+501,Business,Meal/Entertain
+502,Business,Errand/Supplies
+503,Business,Errand/Supplies
+504,Business,Meeting
+505,Business,Errand/Supplies
+506,Business,Errand/Supplies
+507,Business,Temporary Site
+508,Business,Meeting
+509,Business,Customer Visit
+510,Business,Meeting
+511,Business,Errand/Supplies
+512,Business,Meal/Entertain
+513,Business,Customer Visit
+514,Business,Meal/Entertain
+515,Business,Errand/Supplies
+516,Business,Errand/Supplies
+517,Business,Errand/Supplies
+518,Business,Meal/Entertain
+519,Business,Customer Visit
+520,Business,Meal/Entertain
+521,Business,Customer Visit
+522,Business,Errand/Supplies
+523,Business,Meal/Entertain
+524,Business,Meal/Entertain
+525,Business,Customer Visit
+526,Business,Meeting
+527,Business,Temporary Site
+528,Business,Customer Visit
+529,Business,Errand/Supplies
+530,Business,Errand/Supplies
+531,Business,Errand/Supplies
+532,Business,Meeting
+533,Business,Meal/Entertain
+534,Business,Customer Visit
+535,Business,Meeting
+536,Business,Meal/Entertain
+537,Business,Errand/Supplies
+538,Business,Errand/Supplies
+539,Business,Errand/Supplies
+540,Business,Meal/Entertain
+541,Business,Errand/Supplies
+542,Business,Errand/Supplies
+543,Business,Meal/Entertain
+544,Business,Meal/Entertain
+545,Business,Meal/Entertain
+546,Business,Customer Visit
+547,Business,Customer Visit
+548,Business,Customer Visit
+549,Business,Temporary Site
+550,Business,Meal/Entertain
+551,Business,Meal/Entertain
+552,Business,Customer Visit
+553,Business,Errand/Supplies
+554,Business,Errand/Supplies
+555,Business,Errand/Supplies
+556,Business,Errand/Supplies
+557,Business,Errand/Supplies
+558,Business,Errand/Supplies
+559,Business,Airport/Travel
+560,Business,Between Offices
+561,Business,Errand/Supplies
+562,Business,Meeting
+563,Business,Errand/Supplies
+564,Business,Errand/Supplies
+565,Business,Errand/Supplies
+566,Business,Meeting
+567,Business,Customer Visit
+568,Business,Meeting
+569,Business,Temporary Site
+570,Business,Temporary Site

@@ -1,5 +1,5 @@
 # Uber Data Analysis
-UC Davis Data Analytics Bootcamp (March-August 2022) Final Project
+UC Davis Data Analytics Bootcamp (March-August 2022) Final Project - Mark, Michael, Harprit, CJ
 ![](images/dataset-cover.jpeg)
 ## Presentation 
 Links:

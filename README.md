@@ -4,7 +4,7 @@ UC Davis Data Analytics Bootcamp (March-August 2022) Final Project - Mark, Micha
 ## Presentation 
 Links:
 
-Google Slides 
+Google Slides - https://docs.google.com/presentation/d/1OSwmpJTQrGlFNN5hsci9FMY1SfDhgS8z2IwIocx5NlE/edit?usp=sharing
 
 Tableau - [https://public.tableau.com/app/profile/mark3073](https://public.tableau.com/app/profile/mark3073/viz/Uber_Ride_2016/Dashboard2)
 

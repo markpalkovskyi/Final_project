@@ -83,8 +83,6 @@ The remaining columns are:
  2. The main tool used to create the final dashboard for the presentation will be Tableau. Within Tableau, we will use interactive bar charts, pie charts, maps, and tables.
  3. With our Tableau link, viewers can visit the URL and inspect on their own about specific graph, that way visitors can learn more about our Uber Data analysis.
 
- ## Machine Learning Model ?
-
 
 ## Encountered Issues/Solutions
 * Before coding with data, salary column were added manually to excel file as: Miles multiply by $2.15 the reason for that because in 2016 NY Uber drivers got paid $2.15 per mile.
